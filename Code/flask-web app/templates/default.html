@@ -1,0 +1,305 @@
+<!doctype html>
+
+<html>
+<head>
+<title>Myapp</title>
+<style>
+
+body{
+background-color: #eee;
+font-family: 'Lato', sans-serif;
+}
+
+img{
+float:left;
+
+}
+
+.logo{
+background-color:rgb(128,128,255);
+height:142px;
+
+}
+
+h1{
+text-align:center;
+padding-top:60px;
+text-decoration:underline;
+color:rgb(0,0,160);
+}
+
+.header{
+margin:10px;
+color:rgb(0,0,160);
+background-color:rgb(255,128,64);
+height:100px;
+border: 1px solid black;
+border-radius:5px;
+}
+
+h2{
+text-align:center;
+padding-top:20px;
+text-decoration:underline;
+}
+
+
+
+#navbar ul{
+list-style-type:none;
+display:flex;
+flex-direction:column;
+}
+
+#navbar ul li{
+text-align:center;
+font-size:20px;
+width:300px;
+border: 1px solid black;
+margin:5px;
+border-radius:5px;
+background-color:#22313F;
+}
+
+a{
+text-decoration:none;
+color:white;
+background-color:#22313F;
+
+}
+
+a:hover{
+color:black;
+background-color:#fff;
+}
+
+
+
+
+
+.foot{
+padding-left:1300px;
+}
+
+
+
+.menu{
+background-color:rgb(28,202,88);
+float:left;
+padding-right:30px;
+margin:10px;
+border-radius:5px;
+}
+
+
+
+p{
+padding-top:30px;
+padding-left:870px;
+}
+
+.content{
+font-size:20px;
+float:left;
+padding-right:10px;
+}
+
+
+
+#btn {
+background: #0066A2;
+color: white;
+border-style: outset;
+border-color: #0066A2;
+height: 30px;
+width: 100px;
+font: bold 14px arial, sans-serif;
+text-shadow:none;
+}
+
+.wrapper{
+text-align:center;
+}
+
+
+.para{
+color:rgb(0,0,160);
+background-color:rgb(255,128,64);
+
+}
+
+.foot{
+padding-left:1300px;
+}
+
+
+#hel{
+padding-left:80px;
+padding-bottom:50px;
+margin:5px;
+color:green;
+text-decoration:underline;
+}
+
+
+#btn:hover {
+background: black;
+color: white;
+border: 1px solid #eee;
+border-radius: 20px;
+box-shadow: 5px 5px 5px #eee;
+text-shadow:none;
+cursor:pointer;
+}
+
+
+
+
+
+
+.file-upload{display:block;text-align:center;font-family: Helvetica, Arial, sans-serif;font-size: 12px;}
+.file-upload .file-select{display:block;border: 2px solid #dce4ec;color: #34495e;cursor:pointer;height:40px;line-height:40px;text-align:left;background:#FFFFFF;overflow:hidden;position:relative;}
+.file-upload .file-select .file-select-button{background:#dce4ec;padding:0 10px;display:inline-block;height:40px;line-height:40px;}
+.file-upload .file-select .file-select-name{line-height:40px;display:inline-block;padding:0 10px;}
+.file-upload .file-select:hover{border-color:#34495e;transition:all .2s ease-in-out;-moz-transition:all .2s ease-in-out;-webkit-transition:all .2s ease-in-out;-o-transition:all .2s ease-in-out;}
+.file-upload .file-select:hover .file-select-button{background:#34495e;color:#FFFFFF;transition:all .2s ease-in-out;-moz-transition:all .2s ease-in-out;-webkit-transition:all .2s ease-in-out;-o-transition:all .2s ease-in-out;}
+.file-upload.active .file-select{border-color:#3fa46a;transition:all .2s ease-in-out;-moz-transition:all .2s ease-in-out;-webkit-transition:all .2s ease-in-out;-o-transition:all .2s ease-in-out;}
+.file-upload.active .file-select .file-select-button{background:#3fa46a;color:#FFFFFF;transition:all .2s ease-in-out;-moz-transition:all .2s ease-in-out;-webkit-transition:all .2s ease-in-out;-o-transition:all .2s ease-in-out;}
+.file-upload .file-select input[type=file]{z-index:100;cursor:pointer;position:absolute;height:100%;width:100%;top:0;left:0;opacity:0;filter:alpha(opacity=0);}
+.file-upload .file-select.file-select-disabled{opacity:0.65;}
+.file-upload .file-select.file-select-disabled:hover{cursor:default;display:block;border: 2px solid #dce4ec;color: #34495e;cursor:pointer;height:40px;line-height:40px;margin-top:5px;text-align:left;background:#FFFFFF;overflow:hidden;position:relative;}
+.file-upload .file-select.file-select-disabled:hover .file-select-button{background:#dce4ec;color:#666666;padding:0 10px;display:inline-block;height:40px;line-height:40px;}
+.file-upload .file-select.file-select-disabled:hover .file-select-name{line-height:40px;display:inline-block;padding:0 10px;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</style>
+
+</head>
+<body>
+<div class="logo">
+<h1>Center for Data Science and Applied Machine Learning</h2>
+</div>
+
+
+
+<div class="header">
+<h2>Stylized Image Captioning -- CAPSTYLE</h3> 
+</div>
+
+<div class="menu">
+<nav id="navbar">
+<ul>
+<li><a href="#Data pre-processing" class="nav-link">Data pre-processing</a></li>
+<li><a href="#Feature Extraction" class="nav-link">Feature Extraction</a></li>
+<li><a href="#Definition" class="nav-link">Model Definition</a></li>
+<li><a href="#Model Evaluation" class="nav-link">Model Evaluation</a></li>
+
+</ul>
+</nav>
+</div>
+
+
+<div class="fill">
+
+<form id="upload-form" action="{{ url_for('upload') }}" method="POST" enctype="multipart/form-data">
+
+
+ <p>
+    <strong><span id="hel">Files:</span></strong><br>
+    
+
+    <div class="file-upload">
+  <div class="file-select">
+    <div class="file-select-button" id="fileName">Choose File</div>
+    <div class="file-select-name" id="noFile"</div> 
+    <input id="file-picker" type="file" name="file" accept="image/*" multiple>
+    <label for="file">Select a File to upload</label>
+   </div>
+</div>
+
+   
+       
+
+    <div id="msg"></div>
+     <div class="wrapper">
+   <input type="submit" id="btn" value="Upload" id="upload-button">
+    </div>
+</p>
+</div>
+</form>
+
+</div>
+
+
+<div class="content">
+
+<p class="para" id="Data pre-processing"  ><h4>Data Preprocessing</H4><br>
+Each image in the Flickr8k dataset is provided with a unique id and consists of 5 captions describing the image. In data preprocessing we perform basic data cleaning which mainly includes lowercasing all the words ,  removing special symbols and punctuations and eliminating all the words consisting of numbers. We create a vocabulary which consists of all the unique possible words from the dataset. Refining the vocabulary and reducing the size of the unique words was done to increase the occurrences of the words which are more likely to occur or which are common. We then set a threshold considering the words which have been repeated a fixed number of times greater than or equal to the threshold.
+We formulate a dictionary of key-value pairs whose keys are the image ids and the values are a list of their respective captions. The contents of this dictionary are then saved as descriptions.
+</p>
+
+
+
+<p class="para" id="Feature Extraction"><h4>Feature Extraction</h4><br>
+Here, we obtain the features of the images from the Flickr8k dataset where we need to convert every image into a fixed sized vector which can then be fed as input to the neural network.  This is done by feeding the image to a Convolutional Neural Network Model. The size of the image is standardized to 299 x 299. We have used popular pre-defined CNN models such as InceptionV3 and ResnetV2. However, we do not classify the image yet. Instead we get a fixed-length informative vector for each image by removing the last classifying layer from the model. We then extract a 2048 length vector for every image and save all the extracted features into a pickle (.pkl) file
+
+</p>
+
+
+
+<p class="para" id="Definition"><h4>Model Definition</h4><br>
+In this step, the deep learning model is created using various combinations of different layers. The models have two input layers - one for the image features and another for the previous caption (tokenized). Different layers like Fully Connected layer (Dense layer), Dropout layer, LSTM, GRU and Embedding layers were used. An additional Attention layer was used for few of the models implemented. Different combinations of LSTM, GRU and Attention layers were implemented and evaluated. These different combinations were added either directly to the embedded captions or after concatenating both the inputs.
+    All captions in the dataset are processed using the tokenizer. The tokenized captions and the features of the corresponding image are used as inputs to train the model. The model is trained for several epochs and in every epoch, the model weights are updated and is tested on the test dataset to calculate the loss and accuracy. The updated model is saved after every epoch.
+
+</p>
+
+
+
+
+<p class="para" id="Model Evaluation"><h4>Model Evaluation</h4><br>
+The performance of various deep learning models is tested using evaluation metrics to perceive their accuracy in numbers by using the weights generated in the model definition stage. Here, evaluation metrics such as BLUE, METEOR, ROUGE, CIDEr, SPICE are implemented. The model is evaluated after each epoch and the best results are considered. The model generates the captions for the test images and the captions are compared with the pre-defined captions in the dataset and the accuracy is evaluated. The pre-processed captions are tokenized by encoding them and then saving it. Thus, a statistical comparison of the efficiency of every model can be established. 
+
+
+
+
+</p>
+
+
+<p class="para" id="Model Evaluation"><h4></h4><br>
+
+</div>
+
+
+
+<p class="foot">
+
+<ul class="foot">
+<li>Samarth G Vasist</li>
+<li>Samyak S Sarnayak</li>
+<li>Ritik Hariani</li>
+</ul>
+</p>
+
+
+
+
+
+</body>
+</html>
+
+
+
+
+

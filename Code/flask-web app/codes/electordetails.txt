@@ -1,0 +1,1236 @@
+
+ | Name : | House No.:11         | Sardar  | Navaj  | MCL4831400 | Sex: Male | Age: 33 | Father's  | Name: | 2
+ | Name : | House No.:11         | Sardar  | Niyaj  | MCL3856168 | Sex: Male | Age: 31 | Father's  | Name: | 3
+ | Name : | House No.:12 | Nagamma  | Charles  | MBQ0968990 | Sex: Male | Age: 31 | Mother's  | Name: | 4
+ | Name : | House No.:16 | Daniel  | Nagaraju  | MBQ0968719 | Sex: Male | Age: 50 | Father's  | Name: | 5
+ | Name : | House No.:16 | Nagaraju  | Vasantha  | MBQ0969618 | Sex: Female | Age: 32 | Husband's  | Name: | 6
+ | Name : | House No.:16         | Levi  | Manikyam  | MCL4831251 | Sex: Female | Age: 44 | Husband's  | Name: | 7
+ | Name : | House No.:17 | Krishna  | Maliyadri  | REJ0050716 | Sex: Female | Age: 26 | Father's  | Name: | 8
+ | Name : | House No.:18         | Joseph  | Babu  | REJ2002087 | Sex: Male | Age: 42 | Father's  | Name: | 9
+ | Name : | House No.:18         | Babu  | Nirmala  | MCL4830527 | Sex: Female | Age: 37 | Husband's  | Name: | 10
+ | Name : | House No.:22         | Raju  | Gseviyara  | REJ2002103 | Sex: Male | Age: 39 | Father's  | Name: | 11
+ | Name : | House No.:22 | Mukesh  | Chiranjeevi M  | REJ0051573 | Sex: Male | Age: 27 | Father's  | Name: | 12
+ | Name : | House No.:22 | Mukesh  | Sanjay M  | REJ0051581 | Sex: Male | Age: 24 | Father's  | Name: | 13
+ | Name : | House No.:22/2 | Kondaiah  | Shrinivasalu G  | REJ0267526 | Sex: Male | Age: 35 | Father's  | Name: | 14
+ | Name : | House No.:22/2 | Shrinivasalu  | Lakshmamma G  | REJ0165175 | Sex: Female | Age: 32 | Husband's  | Name: | 15
+ | Name : | House No.:28 | Chinnapenchalayya  | Kavitha P  | REJ0051540 | Sex: Female | Age: 24 | Father's  | Name: | 16
+ | Name : | House No.:37         | Ganganna  | Narayanaswamy  | MCL4835161 | Sex: Male | Age: 40 | Father's  | Name: | 17
+ | Name : | House No.:46 | Balaganganna  | Venkataraman  | REJ0265827 | Sex: Male | Age: 29 | Father's  | Name: | 18
+ | Name : | House No.:46 | Balaganganna  | Harikrishna  | REJ0266213 | Sex: Male | Age: 27 | Father's  | Name: | 19
+ | Name : | House No.:50 | R K Nathan  | Richard  | REJ4954145        | Sex: Male | Age: 24 | Father's  | Name: | 20
+ | Name : | House No.:50 | Arokya Nathan  | Ruman Son  | REJ4938304        | Sex: Male | Age: 21 | Father's  | Name: | 21
+ | Name : | House No.:52         | Peddasubbanna  | Lingamma  | MCL4835815 | Sex: Female | Age: 72 | Husband's  | Name: | 22
+ | Name : | House No.:52         | Subbarayudu  | Lakshminarasamma  | MCL4835807 | Sex: Female | Age: 52 | Husband's  | Name: | 23
+ | Name : | House No.:52         | Peddasubbanna  | Chinnanagappa  | MCL3856259 | Sex: Male | Age: 32 | Father's  | Name: | 24
+ | Name : | House No.:56 | Basavaraju M | Chandana B | REJ5046594        | Sex: Female | Age: 23 | Father's  | Name: | 25
+ | Name : | House No.:57 | Ganganna  | Adinarayana  | REJ2000404 | Sex: Male | Age: 30 | Father's  | Name: | 26
+ | Name : | House No.:60         | Kadirappa  | Narasimhalu  | REJ0267609 | Sex: Male | Age: 41 | Father's  | Name: | 27
+ | Name : | House No.:61         | Kadirappa  | Narasimhalu  | REJ0267518 | Sex: Male | Age: 44 | Father's  | Name: | 28
+ | Name : | House No.:61         | Narasimhalu  | Muthyalamma  | REJ0164103 | Sex: Female | Age: 37 | Husband's  | Name: | 29
+ | Name : | House No.:70         | Subbanna  | Subbarayadu  | MCL3856051 | Sex: Male | Age: 50 | Father's  | Name: | 30
+ | Name : | House No.:70         | Subbarayadu  | Muthyalamma  | MCL4831038 | Sex: Female | Age: 47 | Husband's  | Name:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ | Page 3/29 | Age as on 01-01-2013 | Issued by the Electoral Registration Officer | Electoral Roll 2013 of 154 - Rajarajeshwarinagar (Gen) Assembly Constituency in KarnatakaPart No. 001
+ | Name : | House No.:74 | Chinnapenchalayya  | Pullaiah  | REJ0267617 | Sex: Male | Age: 49 | Father's  | Name: | 32
+ | Name : | House No.:74 | Pullaiah  | Jayamma  | REJ0267823 | Sex: Female | Age: 42 | Husband's  | Name: | 33
+ | Name : | House No.:74 | Anjaneya  | Hanumanthappa  | REJ2000602 | Sex: Male | Age: 63 | Father's  | Name: | 34
+ | Name : | House No.:74 | Hanumanthappa  | Shantha  | REJ2000610 | Sex: Female | Age: 47 | Husband's  | Name: | 35
+ | Name : | House No.:74 | Hanumanthappa  | Krishna  | REJ2000628 | Sex: Male | Age: 31 | Father's  | Name: | 36
+ | Name : | House No.:76         | Gangappa  | S. Narayan  | REJ2000651 | Sex: Male | Age: 57 | Father's  | Name: | 37
+ | Name : | House No.:77         | Ganganna  | Obalesh  | MCL4830311 | Sex: Male | Age: 40 | Father's  | Name: | 38
+ | Name : | House No.:77 | Kottappa  | Krishnappa  | REJ0266874 | Sex: Male | Age: 35 | Father's  | Name: | 39
+ | Name : | House No.:77 | Chinnaiah  | M C Johnson  | REJ2000669 | Sex: Male | Age: 43 | Father's  | Name: | 40
+ | Name : | House No.:78 | N Anjaneyalu  | Nagaveni  | REJ2000685 | Sex: Female | Age: 33 | Husband's  | Name: | 41
+ | Name : | House No.:83 | Prasad  | Kondamma  | REJ0268409 | Sex: Female | Age: 46 | Husband's  | Name: | 42
+ | Name : | House No.:83 | Prasad  | Arogyadas  | MCL4830790 | Sex: Male | Age: 30 | Father's  | Name: | 43
+ | Name : | House No.:86 | Nanjundappa  | Shankarappa N  | MCL4831111 | Sex: Male | Age: 54 | Father's  | Name: | 44
+ | Name : | House No.:86 | Shankarappa  | Padma  | MCL4836789 | Sex: Female | Age: 47 | Husband's  | Name: | 45
+ | Name : | House No.:87 | Ventappa  | Nallappa  | REJ0050906 | Sex: Male | Age: 43 | Father's  | Name: | 46
+ | Name : | House No.:87 | Nallappa  | Nagamma  | REJ0050831 | Sex: Female | Age: 38 | Husband's  | Name: | 47
+ | Name : | House No.:88 | Saravan  | Vijayashanthi  | REJ4250049 | Sex: Female | Age: 27 | Husband's  | Name: | 48
+ | Name : | House No.:89         | S. P. Muniyappa  | Kumar Babu  | MCL4838504 | Sex: Male | Age: 53 | Father's  | Name: | 49
+ | Name : | House No.:90/221 | Mukhesh  | Elizabeth  | REJ2000727 | Sex: Female | Age: 44 | Husband's  | Name: | 50
+ | Name : | House No.:90/221 | Thyagaraj  | T S Mukhesh  | REJ2000735 | Sex: Male | Age: 48 | Father's  | Name: | 51
+ | Name : | House No.:90/221 | Mukhesh  | Chiranjeevi  | REJ2000743 | Sex: Male | Age: 27 | Father's  | Name: | 52
+ | Name : | House No.:90/221 | Mukhesh  | M Sanjeevi  | REJ2000750 | Sex: Female | Age: 24 | Father's  | Name: | 53
+ | Name : | House No.:91         | Shyam  | Estherarani  | MCL4833786 | Sex: Female | Age: 36 | Husband's  | Name: | 54
+ | Name : | House No.:93-3       | Jayapal  | Rajesh Kumar J.  | MCL4831145 | Sex: Male | Age: 31 | Father's  | Name: | 55
+ | Name : | House No.:93/90 | Varadappa  | P Kondaiah  | REJ2000818 | Sex: Male | Age: 55 | Father's  | Name: | 56
+ | Name : | House No.:93/214 | Penchalaiah C H.  | Stela Mary  | REJ4250056 | Sex: Female | Age: 32 | Husband's  | Name: | 57
+ | Name : | House No.:93/214 | Narasaiah C H.  | Penchalaiah C H.  | REJ4250064 | Sex: Male | Age: 36 | Father's  | Name: | 58
+ | Name : | House No.:93/214 | Yukub  | Santhosh Kumari  | REJ4250072 | Sex: Female | Age: 25 | Father's  | Name: | 59
+ | Name : | House No.:93/220 | Devaiah  | Saloman  | REJ2000826 | Sex: Male | Age: 45 | Father's  | Name: | 60
+ | Name : | House No.:93/220 | Saloman  | Bhagyamma  | REJ2000834 | Sex: Female | Age: 39 | Husband's  | Name:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ | Page 4/29 | Age as on 01-01-2013 | Issued by the Electoral Registration Officer | Electoral Roll 2013 of 154 - Rajarajeshwarinagar (Gen) Assembly Constituency in KarnatakaPart No. 001
+ | Name : | House No.:93/944 | Sauri  | Jevier  | REJ2000842 | Sex: Male | Age: 56 | Father's  | Name: | 62
+ | Name : | House No.:93/944 | Jeviyar  | Josefin  | REJ2000859 | Sex: Female | Age: 46 | Husband's  | Name: | 63
+ | Name : | House No.:93/944 | Jeviyar  | Stalin  | REJ2000867 | Sex: Male | Age: 26 | Father's  | Name: | 64
+ | Name : | House No.:93/944 | Stalin  | Deepa Kumari  | REJ2000875 | Sex: Female | Age: 29 | Husband's  | Name: | 65
+ | Name : | House No.:95 1 | Sampangi  | Anthony  | MCL4830220 | Sex: Male | Age: 42 | Father's  | Name: | 66
+ | Name : | House No.:95 1 | Anthony  | Merina  | MCL4836227 | Sex: Female | Age: 37 | Husband's  | Name: | 67
+ | Name : | House No.:102 | Guraiah  | Yakob  | REJ2000883 | Sex: Male | Age: 52 | Father's  | Name: | 68
+ | Name : | House No.:102 | Yakob  | Sunandamma  | MCL4833588 | Sex: Female | Age: 47 | Husband's  | Name: | 69
+ | Name : | House No.:102 | Yakob  | Daiva Kumar  | MCL4833638 | Sex: Male | Age: 35 | Father's  | Name: | 70
+ | Name : | House No.:102 | Yakob  | Aasha  | MCL3856929 | Sex: Female | Age: 31 | Father's  | Name: | 71
+ | Name : | House No.:102 | Thirupalayya  | Shivaiah S  | REJ4250098 | Sex: Male | Age: 33 | Father's  | Name: | 72 | Name : | House No.:110 | Narasimhalu  | Kullayamma  |   | Sex: Female | Age: 65 | Husband's  | Name: | 73
+ | Name : | House No.:111 | Ponna swamy  | Muniswamy  | REJ4750071 | Sex: Male | Age: 47 | Father's  | Name: | 74
+ | Name : | House No.:112 | Prabhudas  | Nagarani  | REJ2000925 | Sex: Female | Age: 30 | Husband's  | Name: | 75
+ | Name : | House No.:118/1 | Malakondaiah G  | Krupa Rao G  | REJ0266320 | Sex: Male | Age: 38 | Father's  | Name: | 76
+ | Name : | House No.:118/1 | Krupa Rao G  | Emelamma G  | REJ0266494 | Sex: Female | Age: 33 | Husband's  | Name: | 77
+ | Name : | House No.:124-1      | Ganganna  | Kullayappa K.  | MCL4830030 | Sex: Male | Age: 42 | Father's  | Name: | 78
+ | Name : | House No.:124-1      | Ganganna  | Obalesh  | MBQ0968669 | Sex: Male | Age: 36 | Father's  | Name: | 79
+ | Name : | House No.:124-1      | Kullayappa  | Lakshmidevi  | MCL4830055 | Sex: Female | Age: 28 | Husband's  | Name: | 80
+ | Name : | House No.:124-1      | Obalesh  | Rangamma  | MBQ7611643 | Sex: Female | Age: 31 | Husband's  | Name: | 81
+ | Name : | House No.:132 | Damodaran  | D Vijay  | REJ2001196 | Sex: Male | Age: 27 | Father's  | Name: | 82
+ | Name : | House No.:136        | Kondaiah  | Marathamma  | MCL4833794 | Sex: Female | Age: 62 | Husband's  | Name: | 83
+ | Name : | House No.:136        | Kondaiah  | Deva Sahayam  | MCL4832762 | Sex: Male | Age: 40 | Father's  | Name: | 84
+ | Name : | House No.:136        | Devasahayam  | Mariyamma  | MCL4834438 | Sex: Female | Age: 34 | Husband's  | Name: | 85
+ | Name : | House No.:142 | Rajendran  | Sivgami  | REJ4250122 | Sex: Female | Age: 33 | Husband's  | Name: | 86
+ | Name : | House No.:146 | R Penchalaiah  | Obalamma  | REJ2001311 | Sex: Female | Age: 27 | Husband's  | Name: | 87
+ | Name : | House No.:147 | J Ramu  | Sanjukumar  | REJ0268730 | Sex: Male | Age: 36 | Father's  | Name: | 88
+ | Name : | House No.:147 | J Ramu  | Nagaraj  | MCL4831384 | Sex: Male | Age: 33 | Father's  | Name: | 89
+ | Name : | House No.:147 | J Ramu  | R Penchalaiah  | REJ0267971 | Sex: Male | Age: 37 | Father's  | Name: | 90
+ | Name : | House No.:147 | J Ramu  | J R Lalla Kumar  | MCL3856762 | Sex: Male | Age: 39 | Father's  | Name:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ | Page 5/29 | Age as on 01-01-2013 | Issued by the Electoral Registration Officer | Electoral Roll 2013 of 154 - Rajarajeshwarinagar (Gen) Assembly Constituency in KarnatakaPart No. 001
+ | Name : | House No.:148/3 | Ashokan  | Sifiya  | REJ4250106 | Sex: Female | Age: 39 | Husband's  | Name: | 92
+ | Name : | House No.:152 | Doraiswamy  | Krishnappa  | REJ2001154 | Sex: Male | Age: 70 | Father's  | Name: | 93
+ | Name : | House No.:152 | Krishnappa  | Rajeshwari  | REJ2001162 | Sex: Female | Age: 60 | Husband's  | Name: | 94
+ | Name : | House No.:152 | Krishnappa  | Sathish  | REJ2001170 | Sex: Male | Age: 33 | Father's  | Name: | 95
+ | Name : | House No.:152 | Sathish  | Renuka  | REJ2001188 | Sex: Female | Age: 26 | Husband's  | Name: | 96
+ | Name : | House No.:161        | Thirupal  | Onkar  | MCL4835120 | Sex: Male | Age: 31 | Father's  | Name: | 97
+ | Name : | House No.:164 | Venkataiah  | Arun  | MCL4841276 | Sex: Male | Age: 54 | Father's  | Name: | 98
+ | Name : | House No.:164 | Aruna  | Rathnamma  | REJ0269001 | Sex: Female | Age: 50 | Husband's  | Name: | 99
+ | Name : | House No.:168        | Kondaiah  | Kondamma  | MCL4834487 | Sex: Female | Age: 86 | Husband's  | Name: | 100
+ | Name : | House No.:168        | Kondaiah  | Prasad  | MCL4834461 | Sex: Male | Age: 44 | Father's  | Name: | 101
+ | Name : | House No.:171 | Pathiraja  | Kanikya Mary  | MCL3856101 | Sex: Female | Age: 53 | Husband's  | Name: | 102
+ | Name : | House No.:171 | Pathiraja  | Arogyadas  | MCL4833828 | Sex: Male | Age: 35 | Father's  | Name: | 103
+ | Name : | House No.:171 | Pathiraja  | Anthony Robert  | MCL4831368 | Sex: Male | Age: 33 | Father's  | Name: | 104
+ | Name : | House No.:171 | Pathiraja  | Sagay Raj  | MCL3856093 | Sex: Male | Age: 31 | Father's  | Name: | 105
+ | Name : | House No.:171 | Pathiraja  | Vijay Androse  | MCL3856127 | Sex: Male | Age: 30 | Father's  | Name: | 106
+ | Name : | House No.:173        | Pyatric R  | Prasad  | MCL4835351 | Sex: Male | Age: 39 | Father's  | Name: | 107
+ | Name : | House No.:176        | Honnurayya  | H. Kondaiah  | MCL4834107 | Sex: Male | Age: 72 | Father's  | Name: | 108
+ | Name : | House No.:176        | H. Kondaiah  | Nagamma  | MCL4834099 | Sex: Female | Age: 67 | Husband's  | Name: | 109
+ | Name : | House No.:176 | Ramakrishnaiah  | Rangaiah  | REJ2001436 | Sex: Male | Age: 64 | Father's  | Name: | 110
+ | Name : | House No.:176        | H. Kondaiah  | Nagaraju  | MCL4830535 | Sex: Male | Age: 32 | Father's  | Name: | 111
+ | Name : | House No.:176        | H. Kondaiah  | Manjula  | MCL4832655 | Sex: Female | Age: 31 | Father's  | Name: | 112
+ | Name : | House No.:176 | S. K. Narayan  | Sridhar Murthy S N  | REJ0267427 | Sex: Male | Age: 31 | Father's  | Name: | 113
+ | Name : | House No.:177-1      | Thirusang  | T. Kandan  | MCL3857760 | Sex: Male | Age: 44 | Father's  | Name: | 114
+ | Name : | House No.:177-1      | T. Kandan  | Jayalakshmi  | MCL4844346 | Sex: Female | Age: 35 | Husband's  | Name: | 115
+ | Name : | House No.:179/1 | V Ramaiah  | V  Krishna  | REJ2001469 | Sex: Male | Age: 50 | Father's  | Name: | 116
+ | Name : | House No.:179/1 | V Krishna  | Anusuyamma  | REJ2001477 | Sex: Female | Age: 45 | Husband's  | Name: | 117
+ | Name : | House No.:179/1 | v. krishna  | Lokesh V  | REJ5238464        | Sex: Male | Age: 24 | Father's  | Name: | 118
+ | Name : | House No.:179/1 | v. krishna  | V. Dinesh Yadav  | REJ5349758        | Sex: Male | Age: 21 | Father's  | Name: | 119
+ | Name : | House No.:179/1 | krishna  | Rajesh  | REJ5349741        | Sex: Male | Age: 23 | Father's  | Name: | 120
+ | Name : | House No.:182 | Narasaiah  | K Penchalaiah  | REJ2001485 | Sex: Male | Age: 40 | Father's  | Name:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ | Page 6/29 | Age as on 01-01-2013 | Issued by the Electoral Registration Officer | Electoral Roll 2013 of 154 - Rajarajeshwarinagar (Gen) Assembly Constituency in KarnatakaPart No. 001
+ | Name : | House No.:182 | K Penchalaiah  | Jayamma  | REJ2001493 | Sex: Female | Age: 37 | Husband's  | Name: | 122
+ | Name : | House No.:186/A | K Babu  | Naveen Kumar  | REJ2001535 | Sex: Male | Age: 26 | Father's  | Name: | 123
+ | Name : | House No.:186/1 | Chinnavolaiah  | Obaiah  | REJ2001501 | Sex: Male | Age: 65 | Father's  | Name: | 124
+ | Name : | House No.:186/1 | Obaiah  | Ramulamma  | REJ2001519 | Sex: Female | Age: 60 | Husband's  | Name: | 125
+ | Name : | House No.:186/1 | Obaiah  | Obalesh  | REJ2001527 | Sex: Male | Age: 28 | Father's  | Name: | 126
+ | Name : | House No.:197        | Mari  | Kumar M.L.  | REJ2001634 | Sex: Male | Age: 62 | Father's  | Name: | 127
+ | Name : | House No.:197 | Kumar M.L.  | Pushpa  | REJ2001642 | Sex: Female | Age: 52 | Husband's  | Name: | 128
+ | Name : | House No.:200/7 | Kuttappa  | Shashidharan K  | REJ0051789 | Sex: Male | Age: 48 | Father's  | Name: | 129
+ | Name : | House No.:200/7 | Shashidharna  | Flora  | REJ0051805 | Sex: Female | Age: 46 | Husband's  | Name: | 130
+ | Name : | House No.:200/7 | Shashidhar  | Sudeep S  | REJ0051797 | Sex: Male | Age: 30 | Father's  | Name: | 131
+ | Name : | House No.:200/7 | Shashidhar K  | Swapna S  | REJ0051813 | Sex: Female | Age: 29 | Father's  | Name: | 132
+ | Name : | House No.:200/7 | Shashidhar K  | Sunil S  | REJ0051821 | Sex: Male | Age: 26 | Father's  | Name: | 133
+ | Name : | House No.:269 | Prasad  | Usha  | REJ2001931 | Sex: Female | Age: 38 | Husband's  | Name: | 134
+ | Name : | House No.:355 | K M Baby  | K B Biju Mathew  | REJ4735098 | Sex: Male | Age: 24 | Father's  | Name: | 135
+ | Name : | House No.:355 | K M Baby  | K B Binu Mathew  | REJ4735106 | Sex: Male | Age: 24 | Father's  | Name: | 136
+ | Name : | House No.:P440/6 | Subhashchandra S  | Khatawkar | Prashantha  | Subhashchandra  | Khatawkar | REJ4680500 | Sex: Male | Age: 47 | Father's  | Name: | 137
+ | Name : | House No.:P440/6 | Prashantha  | Subhashchandra  | Khatawkar | Lata Prashantha  | Khatawkar | REJ4680518 | Sex: Female | Age: 46 | Husband's  | Name: | 138
+ | Name : | House No.:673 | S.Venkatesh  | Sunil Kumar.S  | REJ5134275        | Sex: Male | Age: 29 | Father's  | Name: | 139
+ | Name : | House No.:712 | Kuppan  | Manavalana  | MCL4833182 | Sex: Male | Age: 58 | Father's  | Name: | 140
+ | Name : | House No.:712 | Manavalana  | Mohana  | MCL4832903 | Sex: Female | Age: 48 | Husband's  | Name: | 141
+ | Name : | House No.:712 | Raju  | Ganesh  | REJ0268466 | Sex: Male | Age: 67 | Father's  | Name: | 142
+ | Name : | House No.:712 | Ganesh  | Kantha  | REJ0268474 | Sex: Female | Age: 54 | Husband's  | Name: | 143
+ | Name : | House No.:762 | Ummar  | Maulabi  | REJ2001980 | Sex: Male | Age: 60 | Father's  | Name: | 144
+ | Name : | House No.:762 | Maulabi  | Sajida  | MBQ7612088 | Sex: Female | Age: 37 | Husband's  | Name: | 145
+ | Name : | House No.:762 | Hussain Shariff  | Arif  | REJ2001998 | Sex: Male | Age: 30 | Father's  | Name: | 146
+ | Name : | House No.:763 | Mari  | M. Chandran  | REJ2001972 | Sex: Male | Age: 60 | Father's  | Name: | 147
+ | Name : | House No.:763 | Chandran  | Esu  | MCL4831814 | Sex: Male | Age: 30 | Father's  | Name: | 148
+ | Name : | House No.:764 | Muthu  | Sampangi  | REJ2001956 | Sex: Male | Age: 44 | Father's  | Name: | 149
+ | Name : | House No.:764 | Sampangi  | Chitra  | REJ2001964 | Sex: Female | Age: 40 | Husband's  | Name: | 150
+ | Name : | House No.:766 | Mani  | Vijayalakshmi  | MCL4835591 | Sex: Female | Age: 61 | Husband's  | Name:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ | Page 7/29 | Age as on 01-01-2013 | Issued by the Electoral Registration Officer | Electoral Roll 2013 of 154 - Rajarajeshwarinagar (Gen) Assembly Constituency in KarnatakaPart No. 001
+ | Name : | House No.:766 | Mani  | Adilakshmi  | MCL4834883 | Sex: Female | Age: 42 | Father's  | Name: | 152
+ | Name : | House No.:766 | Mani  | Anandraj  | MCL3856663 | Sex: Male | Age: 37 | Father's  | Name: | 153
+ | Name : | House No.:766 | Mani  | Hemavathi  | MCL3856515 | Sex: Female | Age: 33 | Father's  | Name: | 154
+ | Name : | House No.:766 | Mani  S M  | Ashok Kumara  M  | MCL3856796 | Sex: Male | Age: 36 | Father's  | Name: | 155
+ | Name : | House No.:766 | Mani  | Shivakumar  | REJ0267641 | Sex: Male | Age: 33 | Father's  | Name: | 156
+ | Name : | House No.:767 | Anthony  | Arita  | REJ0268136 | Sex: Female | Age: 47 | Husband's  | Name: | 157
+ | Name : | House No.:767 | Anthony  | Charlas  | MCL4831459 | Sex: Male | Age: 35 | Father's  | Name: | 158
+ | Name : | House No.:767 | Anthony  | Mohan Raj  | REJ0267468 | Sex: Male | Age: 34 | Father's  | Name: | 159
+ | Name : | House No.:767 | Anthony  | Amala  | REJ0268300 | Sex: Female | Age: 32 | Father's  | Name: | 160
+ | Name : | House No.:769 | Kondaiah  | Paul K  | REJ0267187 | Sex: Male | Age: 42 | Father's  | Name: | 161
+ | Name : | House No.:769 | Paul K  | Arikaimeri  | REJ0164830 | Sex: Female | Age: 37 | Husband's  | Name: | 162
+ | Name : | House No.:769 | Rosaiah  | Chinakka  | REJ0164699 | Sex: Female | Age: 67 | Husband's  | Name: | 163
+ | Name : | House No.:770 | Vijayaraj  | Maragadam  | REJ2001808 | Sex: Female | Age: 62 | Husband's  | Name: | 164
+ | Name : | House No.:770 | Jai Raj  | Dipa  | MCL4836094 | Sex: Female | Age: 33 | Father's  | Name: | 165
+ | Name : | House No.:770 | Jai Raj  | Roopa  | MCL4836078 | Sex: Female | Age: 31 | Father's  | Name: | 166
+ | Name : | House No.:770 | Jairaj  | Sudhasini  | REJ5134259        | Sex: Female | Age: 21 | Father's  | Name: | 167
+ | Name : | House No.:771 | Peter  | Jairaj  | KT/11/089/165441  | Sex: Male | Age: 67 | Father's  | Name: | 168
+ | Name : | House No.:772 | Muniswamy  | Rukmani  | MCL4831590 | Sex: Female | Age: 72 | Husband's  | Name: | 169
+ | Name : | House No.:772 | Parameshwaran  | Radhabai  | REJ2001758 | Sex: Female | Age: 54 | Husband's  | Name: | 170
+ | Name : | House No.:772 | Manikyam  | Parameshwaran  | MCL4833877 | Sex: Male | Age: 54 | Father's  | Name: | 171
+ | Name : | House No.:772 | Parameshwaran  | Sheelabai  | MCL4831608 | Sex: Female | Age: 32 | Father's  | Name: | 172
+ | Name : | House No.:772 | Parameshwaran  | Pravin Kumar  | MCL4833844 | Sex: Male | Age: 30 | Father's  | Name: | 173
+ | Name : | House No.:774 | Muniswamy  | Selvaraj  | REJ2001717 | Sex: Male | Age: 60 | Father's  | Name: | 174
+ | Name : | House No.:774 | Selvaraj  | Saraswathi  | REJ2001725 | Sex: Female | Age: 51 | Husband's  | Name: | 175
+ | Name : | House No.:774 | Selvaraj  | Palaniraja  | MCL4835799 | Sex: Male | Age: 30 | Father's  | Name: | 176
+ | Name : | House No.:775 | Kondaiah  | Balayamayya  | MCL4841136 | Sex: Male | Age: 42 | Father's  | Name: | 177
+ | Name : | House No.:775 | Kondaiah  | Maladri  | MBQ0969196 | Sex: Male | Age: 35 | Father's  | Name: | 178
+ | Name : | House No.:775 | Balayamayya  | Premalatha  | MCL4841144 | Sex: Female | Age: 33 | Husband's  | Name: | 179
+ | Name : | House No.:775 | Kondaiah  | Hemalatha  | MCL4841151 | Sex: Female | Age: 30 | Father's  | Name: | 180
+ | Name : | House No.:776 | Nagaiah  | Malakondaiah  | REJ0268177 | Sex: Male | Age: 64 | Father's  | Name:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ | Page 8/29 | Age as on 01-01-2013 | Issued by the Electoral Registration Officer | Electoral Roll 2013 of 154 - Rajarajeshwarinagar (Gen) Assembly Constituency in KarnatakaPart No. 001
+ | Name : | House No.:776 | Malakondaiah  | Lakshmamma  | REJ2001618 | Sex: Female | Age: 59 | Husband's  | Name: | 182
+ | Name : | House No.:776 | Kondaiah  | Kondamma  | MCL4841557 | Sex: Female | Age: 52 | Husband's  | Name: | 183
+ | Name : | House No.:777 | Vilav Pillai  | Krishna Pillai  | REJ0268862 | Sex: Male | Age: 55 | Father's  | Name: | 184
+ | Name : | House No.:777 | Krishna Pillai  | Vijayalakshmi  | REJ5392360        | Sex: Female | Age: 47 | Husband's  | Name: | 185
+ | Name : | House No.:777 | Krishna Pillai  | Rajeshwari  | MCL3856812 | Sex: Female | Age: 31 | Father's  | Name: | 186
+ | Name : | House No.:777 | Krishna Pillai  | Vimala  | MCL4836086 | Sex: Female | Age: 30 | Father's  | Name: | 187
+ | Name : | House No.:780/2 | P V Kandan  | P K Radhakrishnan  | REJ2001881 | Sex: Male | Age: 55 | Father's  | Name: | 188
+ | Name : | House No.:780/2 | P R Radhakrishna  | K K Sudha  | REJ2001899 | Sex: Female | Age: 45 | Husband's  | Name: | 189
+ | Name : | House No.:780/2 | K Kunju  | K Bhaskar  | REJ2001907 | Sex: Male | Age: 61 | Father's  | Name: | 190
+ | Name : | House No.:782 | Kondaiah  | Kondaiah  | MBQ7612328 | Sex: Male | Age: 41 | Father's  | Name: | 191
+ | Name : | House No.:782 | Kondaiah  | Rathna  | MBQ7611783 | Sex: Female | Age: 29 | Husband's  | Name: | 192
+ | Name : | House No.:786 | Kondaiah M  | Kondaiah G.  | REJ0267336 | Sex: Male | Age: 77 | Father's  | Name: | 193
+ | Name : | House No.:786 | Kondaiah  | Yangamma G.  | REJ0267328 | Sex: Female | Age: 67 | Husband's  | Name: | 194
+ | Name : | House No.:786 | Kondaiah  | Venkatesh G.  | MCL4830105 | Sex: Male | Age: 49 | Father's  | Name: | 195
+ | Name : | House No.:786 | Kondaiah  | Nagesh G.  | REJ0266858 | Sex: Male | Age: 44 | Father's  | Name: | 196
+ | Name : | House No.:786 | G. Venkatesh  | Thirupathamma G.  | REJ5392295        | Sex: Female | Age: 39 | Husband's  | Name: | 197
+ | Name : | House No.:786 | Nagesh G.  | Prasanna Kumari G.  | REJ0165233 | Sex: Female | Age: 38 | Husband's  | Name: | 198
+ | Name : | House No.:788 | Venkatasubbaiah  | K. Nagaiah  | REJ0268052 | Sex: Male | Age: 45 | Father's  | Name: | 199
+ | Name : | House No.:788 | Nagaiah K.  | Maheshwari  | REJ0267302 | Sex: Female | Age: 42 | Husband's  | Name: | 200
+ | Name : | House No.:789 | Arunaiah  | Vijayamma  | REJ0050161 | Sex: Female | Age: 46 | Husband's  | Name: | 201
+ | Name : | House No.:789 | Venkatasubbaiah  | K. Achamma  | MCL4843892 | Sex: Female | Age: 40 | Husband's  | Name: | 202
+ | Name : | House No.:790 | Venkatasubbaiah  | Arunaiah  | REJ0164541 | Sex: Male | Age: 54 | Father's  | Name: | 203
+ | Name : | House No.:790 | Venkatasubbaiah  | Venkatasubbaiah  | REJ2001329 | Sex: Male | Age: 47 | Father's  | Name: | 204
+ | Name : | House No.:791 | Peddaiah  | Kondaiah  | REJ0269217 | Sex: Male | Age: 59 | Father's  | Name: | 205
+ | Name : | House No.:791 | Kondaiah  | Penchalamma  | REJ0164749 | Sex: Female | Age: 54 | Husband's  | Name: | 206
+ | Name : | House No.:791 | Kondaiah  | K. Ramesha Babu  | MCL3856192 | Sex: Male | Age: 36 | Father's  | Name: | 207
+ | Name : | House No.:791 | Kondaiah  | K. Babu  | MCL4831293 | Sex: Male | Age: 33 | Father's  | Name: | 208
+ | Name : | House No.:791 | Kondaiah  | K. Baby  | MCL4832143 | Sex: Female | Age: 30 | Father's  | Name: | 209
+ | Name : | House No.:792 | Chinnaiah  | Pullamma  | MCL4831079 | Sex: Female | Age: 68 | Husband's  | Name: | 210
+ | Name : | House No.:792 | Chinnaiah  | Srinivasalu  | REJ0268896 | Sex: Male | Age: 39 | Father's  | Name:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ | Page 9/29 | Age as on 01-01-2013 | Issued by the Electoral Registration Officer | Electoral Roll 2013 of 154 - Rajarajeshwarinagar (Gen) Assembly Constituency in KarnatakaPart No. 001
+ | Name : | House No.:792 | Srinivasalu  | Rathnamma  | MCL4832242 | Sex: Female | Age: 37 | Husband's  | Name: | 212
+ | Name : | House No.:793 | Adiyamma  | Chinnaiah  | REJ0268672 | Sex: Male | Age: 42 | Mother's  | Name: | 213
+ | Name : | House No.:793 | Chinnaiah  | Krishnamma  | REJ0267369 | Sex: Female | Age: 37 | Husband's  | Name: | 214
+ | Name : | House No.:794 | Keshavaiah  | Kumar  | MCL4830063 | Sex: Male | Age: 44 | Father's  | Name: | 215
+ | Name : | House No.:794 | Kumar  | Kumari  | MCL4830394 | Sex: Female | Age: 34 | Husband's  | Name: | 216
+ | Name : | House No.:795 | Polaiah  | Keshavaiah  | REJ0266791 | Sex: Male | Age: 76 | Father's  | Name: | 217
+ | Name : | House No.:796 | Keshavaiah  | Jayarao  | REJ2001345 | Sex: Male | Age: 50 | Father's  | Name: | 218
+ | Name : | House No.:796 | Jayarao  | Susheela  | REJ0164921 | Sex: Female | Age: 45 | Husband's  | Name: | 219
+ | Name : | House No.:796 | Jayarao  | Pushpa  | MCL4831194 | Sex: Female | Age: 31 | Father's  | Name: | 220
+ | Name : | House No.:797 | Keshavaiah  | Yesurathnam  | REJ0267542 | Sex: Male | Age: 46 | Father's  | Name: | 221
+ | Name : | House No.:797 | Yesurathnam  | Padma  | REJ0164152 | Sex: Female | Age: 42 | Husband's  | Name: | 222
+ | Name : | House No.:798 | Kondaiah  | Krishna  | MBQ7612112 | Sex: Male | Age: 49 | Father's  | Name: | 223
+ | Name : | House No.:798 | Krishna  | Ravanamma  | MCL4832168 | Sex: Female | Age: 44 | Husband's  | Name: | 224
+ | Name : | House No.:800 | srinivas  | Julekha  | REJ5349766        | Sex: Female | Age: 23 | Husband's  | Name: | 225
+ | Name : | House No.:801 | D.K.Shekhar  | Rukmaniyamma  | REJ0267906 | Sex: Female | Age: 74 | Husband's  | Name: | 226
+ | Name : | House No.:802 | Armugam  | Manoharan  | REJ0267120 | Sex: Male | Age: 47 | Father's  | Name: | 227
+ | Name : | House No.:803 | Sriramulu  | Jayalakshmi  | REJ0268284 | Sex: Female | Age: 49 | Husband's  | Name: | 228
+ | Name : | House No.:803 | Mathayya  | Narayanamma  | REJ0268979 | Sex: Female | Age: 47 | Father's  | Name: | 229
+ | Name : | House No.:803 | Shankaraiah  | Prasad  | MCL4836748 | Sex: Male | Age: 42 | Father's  | Name: | 230
+ | Name : | House No.:803 | Prasad  | Lakshmi  | MCL4836755 | Sex: Female | Age: 40 | Husband's  | Name: | 231
+ | Name : | House No.:804 | Vadivelu  | Annamma  | MCL4837522 | Sex: Female | Age: 70 | Husband's  | Name: | 232
+ | Name : | House No.:804 | Vadivelu  | Murugan  | MCL4833232 | Sex: Male | Age: 42 | Father's  | Name: | 233
+ | Name : | House No.:804 | Murugan  | Selvi  | MCL4833471 | Sex: Female | Age: 39 | Father's  | Name: | 234
+ | Name : | House No.:805 | Mari  | Ramachandran  | REJ2001659 | Sex: Male | Age: 74 | Father's  | Name: | 235
+ | Name : | House No.:805 | Ramachandran  | Srinivas  | REJ2001667 | Sex: Male | Age: 46 | Father's  | Name: | 236
+ | Name : | House No.:805 | Ramachandran  | Malaraveli  | REJ2001675 | Sex: Female | Age: 45 | Father's  | Name: | 237
+ | Name : | House No.:805 | Ramachandran  | Anitha  | REJ2001683 | Sex: Female | Age: 44 | Father's  | Name: | 238
+ | Name : | House No.:806 | Govindaswamy  | Srinivasan G S  | MCL3856697 | Sex: Male | Age: 63 | Father's  | Name: | 239
+ | Name : | House No.:806 | Srinivasan  | Parimala  | REJ2001733 | Sex: Female | Age: 53 | Husband's  | Name: | 240
+ | Name : | House No.:806 | Srinivasan  | Shridevi  | MCL4836060 | Sex: Female | Age: 34 | Father's  | Name:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ | Page 10/29 | Age as on 01-01-2013 | Issued by the Electoral Registration Officer | Electoral Roll 2013 of 154 - Rajarajeshwarinagar (Gen) Assembly Constituency in KarnatakaPart No. 001
+ | Name : | House No.:806 | Srinivasan  | Amith Kumar  | MCL3856382 | Sex: Male | Age: 32 | Father's  | Name: | 242
+ | Name : | House No.:806 | Srinivasan  | Shaini Kumar  | MCL3856390 | Sex: Male | Age: 30 | Father's  | Name: | 243
+ | Name : | House No.:807 | Balan  | Prema Kumar  | REJ2001816 | Sex: Male | Age: 44 | Father's  | Name: | 244
+ | Name : | House No.:807 | Prema Kumar  | Anitha  | REJ2001824 | Sex: Female | Age: 40 | Husband's  | Name: | 245
+ | Name : | House No.:810/2 | Mohan  | M Prabhu  | REJ4750170 | Sex: Male | Age: 22 | Father's  | Name: | 246
+ | Name : | House No.:813 | Obalesh  | Sampath  | REJ2002145 | Sex: Male | Age: 38 | Father's  | Name: | 247
+ | Name : | House No.:817 | Saiman  | Mariyamma  | MCL4834651 | Sex: Female | Age: 67 | Husband's  | Name: | 248
+ | Name : | House No.:817 | Srinivas  | Raniyamma  | MBQ7612138 | Sex: Female | Age: 39 | Husband's  | Name: | 249
+ | Name : | House No.:817 | Saiman  | Ramesh  | MCL4834602 | Sex: Male | Age: 37 | Father's  | Name: | 250
+ | Name : | House No.:817 | Ramesh  | Lakshmamma  | MCL4834594 | Sex: Female | Age: 32 | Husband's  | Name: | 251
+ | Name : | House No.:817 | Srinivas  | Prem Kumar  | MCL4834644 | Sex: Male | Age: 30 | Father's  | Name: | 252
+ | Name : | House No.:817 | Ramaiah  | Jhosaf  | REJ5134267        | Sex: Male | Age: 21 | Father's  | Name: | 253
+ | Name : | House No.:818 | Paul  | Jhon  | REJ0164905 | Sex: Male | Age: 65 | Father's  | Name: | 254
+ | Name : | House No.:818 | Jhon  | Devakripamma  | REJ2002095 | Sex: Female | Age: 57 | Husband's  | Name: | 255
+ | Name : | House No.:818 | Jhon  | Daniel  | REJ0267567 | Sex: Male | Age: 40 | Father's  | Name: | 256
+ | Name : | House No.:819 | Ruban  | Marthamma  | REJ0268987 | Sex: Female | Age: 55 | Husband's  | Name: | 257
+ | Name : | House No.:819 | Rubena  | Anthony  | MCL4831731 | Sex: Male | Age: 36 | Father's  | Name: | 258
+ | Name : | House No.:819 | Ruban  | Prabhu  | MCL4834628 | Sex: Male | Age: 33 | Father's  | Name: | 259
+ | Name : | House No.:819 | Jacob  | Uday  | MCL4831798 | Sex: Male | Age: 31 | Father's  | Name: | 260
+ | Name : | House No.:819 | Anthony  | Fathima  | MCL3856549 | Sex: Female | Age: 31 | Husband's  | Name: | 261
+ | Name : | House No.:819 | Ruban  | Swapna  | MCL4835179 | Sex: Female | Age: 29 | Father's  | Name: | 262
+ | Name : | House No.:819 | Xavier  | Suma  | REJ2002129 | Sex: Female | Age: 36 | Husband's  | Name: | 263
+ | Name : | House No.:819 | Obalesh  | Lakshmi  | MCL4835468 | Sex: Female | Age: 57 | Husband's  | Name: | 264
+ | Name : | House No.:819 | Obalesh  | Sampangi  | MCL4835401 | Sex: Male | Age: 32 | Father's  | Name: | 265
+ | Name : | House No.:819 | Obalesh  | Ramu  | REJ0266387 | Sex: Male | Age: 31 | Father's  | Name: | 266
+ | Name : | House No.:819 | Late Obalesh  | Santhosh  | REJ4250205 | Sex: Male | Age: 28 | Father's  | Name: | 267
+ | Name : | House No.:820 | Yakob  | Simana  | MCL4835443 | Sex: Male | Age: 58 | Father's  | Name: | 268
+ | Name : | House No.:820 | Simana  | Arunamma  | MCL4834586 | Sex: Female | Age: 50 | Husband's  | Name: | 269
+ | Name : | House No.:823 | Narayan  | Shivakumar  | MCL4832796 | Sex: Male | Age: 37 | Father's  | Name: | 270
+ | Name : | House No.:823 | Shivakumara  | Lakshmi  | MCL4832804 | Sex: Female | Age: 38 | Husband's  | Name:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ | Page 11/29 | Age as on 01-01-2013 | Issued by the Electoral Registration Officer | Electoral Roll 2013 of 154 - Rajarajeshwarinagar (Gen) Assembly Constituency in KarnatakaPart No. 001
+ | Name : | House No.:823 | Lakshminarayana  | L Manjunatha  | REJ5392352        | Sex: Male | Age: 26 | Father's  | Name: | 272
+ | Name : | House No.:824 | Narayan  | Aadinarayan  | REJ0268110 | Sex: Male | Age: 46 | Father's  | Name: | 273
+ | Name : | House No.:824 | Aadinarayan  | Eshwaramma  | REJ0268128 | Sex: Female | Age: 38 | Husband's  | Name: | 274
+ | Name : | House No.:827 | Shekhusen  | Sardar  | REJ2002020 | Sex: Male | Age: 60 | Father's  | Name: | 275
+ | Name : | House No.:827 | Sardar  | Abidabegaum  | REJ2002038 | Sex: Female | Age: 48 | Husband's  | Name: | 276
+ | Name : | House No.:827 | Sardar  | Amajatha  | REJ2002046 | Sex: Male | Age: 35 | Father's  | Name: | 277
+ | Name : | House No.:828 | Shekusena  | Babu  | REJ2002004 | Sex: Male | Age: 67 | Father's  | Name: | 278
+ | Name : | House No.:828 | Babu  | Jeenatha  | REJ2002012 | Sex: Female | Age: 45 | Husband's  | Name: | 279
+ | Name : | House No.:828 | Babu  | Afroz  | MCL4830873 | Sex: Male | Age: 34 | Father's  | Name: | 280
+ | Name : | House No.:828 | Babu S  | Reshma Begaum  | MCL4831327 | Sex: Female | Age: 32 | Father's  | Name: | 281
+ | Name : | House No.:828 | Babu  | Fiyaz  | MCL4831442 | Sex: Male | Age: 30 | Father's  | Name: | 282
+ | Name : | House No.:828 | Babu  | Irshad  | MCL4830899 | Sex: Male | Age: 30 | Father's  | Name: | 283
+ | Name : | House No.:829 | Jaibunnisa  | Anwar Sharif  | MCL3856960 | Sex: Male | Age: 47 | Mother's  | Name: | 284
+ | Name : | House No.:829 | Jaibunnisa  | Afsar Sharif  | MCL4830204 | Sex: Male | Age: 47 | Mother's  | Name: | 285
+ | Name : | House No.:829 | Jaibunnisa  | Akbar Sharif  | MCL4829990 | Sex: Male | Age: 49 | Mother's  | Name: | 286
+ | Name : | House No.:829 | Afsar Sharif  | Nasim  | REJ2001576 | Sex: Female | Age: 42 | Husband's  | Name: | 287 | Name : | House No.:829 | Akbar Sharif  | Shahajahana  |   | Sex: Female | Age: 37 | Husband's  | Name: | 288
+ | Name : | House No.:829 | Pyarejan  | Inthiyas Pasha  | REJ2001592 | Sex: Male | Age: 37 | Father's  | Name: | 289
+ | Name : | House No.:829 | Jaibunnisa  | Javed Sharif  | MCL4831533 | Sex: Male | Age: 38 | Mother's  | Name: | 290
+ | Name : | House No.:829 | Jaibunnisa  | Ahmed Sharif  | MCL4830212 | Sex: Male | Age: 34 | Mother's  | Name: | 291
+ | Name : | House No.:829 | Anwar Sharif  | Thahasina  | MCL3856978 | Sex: Female | Age: 32 | Husband's  | Name: | 292
+ | Name : | House No.:829 | Inthiyas Pasha  | Gowhar Jhon  | REJ2001600 | Sex: Female | Age: 34 | Husband's  | Name: | 293
+ | Name : | House No.:829 | Jaibunnisa  | Amid Sharif  | MCL4832291 | Sex: Male | Age: 30 | Mother's  | Name: | 294
+ | Name : | House No.:829 | javed sharif  | Reshma Begam  | REJ5238472        | Sex: Female | Age: 51 | Husband's  | Name: | 295
+ | Name : | House No.:830 | Marakka  | Sanjivamma  | MBQ7611676 | Sex: Female | Age: 39 | Mother's  | Name: | 296
+ | Name : | House No.:832 | Mohammed Arabbi  | M A Sagula Amid  | MCL4834511 | Sex: Male | Age: 69 | Father's  | Name: | 297
+ | Name : | House No.:832 | Sagula Amid  | Shahar Banu  | MCL4834529 | Sex: Female | Age: 47 | Husband's  | Name: | 298
+ | Name : | House No.:832 | Sagula Amid  | Abdul Rahim  | MCL4844361 | Sex: Male | Age: 37 | Father's  | Name: | 299
+ | Name : | House No.:832 | Abdul Rahim  | Banu  | MCL4834537 | Sex: Female | Age: 34 | Husband's  | Name: | 300
+ | Name : | House No.:835 | Obalesh  | Lingamma  | MBQ7611668 | Sex: Female | Age: 43 | Father's  | Name:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ | Page 12/29 | Age as on 01-01-2013 | Issued by the Electoral Registration Officer | Electoral Roll 2013 of 154 - Rajarajeshwarinagar (Gen) Assembly Constituency in KarnatakaPart No. 001
+ | Name : | House No.:835 | Lingamma  | Suresh  | MCL3856085 | Sex: Male | Age: 32 | Mother's  | Name: | 302
+ | Name : | House No.:835 | Lingamma  | Poornima  | MBQ7612237 | Sex: Female | Age: 27 | Mother's  | Name: | 303
+ | Name : | House No.:835 | Chinnaraju  | Prasad N  | REJ0267872 | Sex: Male | Age: 54 | Father's  | Name: | 304
+ | Name : | House No.:836 | Ram  | Shankar  | MCL3856846 | Sex: Male | Age: 48 | Father's  | Name: | 305
+ | Name : | House No.:836 | Shankar  | Vijaya  | REJ2001568 | Sex: Female | Age: 40 | Husband's  | Name: | 306
+ | Name : | House No.:837 | G. Kondaiah  | G. Thirupathi  | REJ2001550 | Sex: Female | Age: 58 | Father's  | Name: | 307
+ | Name : | House No.:837 | G. Kondaiah  | G. Lakshmamma  | MCL4833422 | Sex: Female | Age: 57 | Husband's  | Name: | 308
+ | Name : | House No.:837 | Shekhar  | Dhanalakshmi  | REJ0165266 | Sex: Female | Age: 46 | Husband's  | Name: | 309
+ | Name : | House No.:837 | Shekhar  | Amulu  | MCL4833364 | Sex: Female | Age: 31 | Father's  | Name: | 310
+ | Name : | House No.:837 | Shekhar  | Kalaivani  | MCL4833356 | Sex: Female | Age: 30 | Father's  | Name: | 311
+ | Name : | House No.:838 | Ramu  | Aanandavan  | MCL4836508 | Sex: Male | Age: 40 | Father's  | Name: | 312
+ | Name : | House No.:838 | Aanandavana  | Shobha  | MCL4836433 | Sex: Female | Age: 38 | Husband's  | Name: | 313
+ | Name : | House No.:839 | Krishnan  | Muniyamma  | REJ0165050 | Sex: Female | Age: 48 | Husband's  | Name: | 314
+ | Name : | House No.:840 | Obalesh  | Pandu  | MCL4834164 | Sex: Male | Age: 34 | Father's  | Name: | 315
+ | Name : | House No.:840 | Obalesh  | Uma  | REJ2002137 | Sex: Female | Age: 34 | Father's  | Name: | 316
+ | Name : | House No.:842 | Ramu  | Kamalamma  | REJ0267955 | Sex: Female | Age: 85 | Father's  | Name: | 317
+ | Name : | House No.:842 | Ramu  | Mani  | REJ0268870 | Sex: Male | Age: 49 | Father's  | Name: | 318
+ | Name : | House No.:842 | Mani  | Manjula  | REJ0165324 | Sex: Female | Age: 42 | Husband's  | Name: | 319
+ | Name : | House No.:842 | Durai Raj T  | Lavanya  | REJ4754594 | Sex: Female | Age: 61 | Husband's  | Name: | 320
+ | Name : | House No.:842 | Durai Raj  T  | Thirunavakarasun  | REJ4752838 | Sex: Male | Age: 41 | Father's  | Name: | 321
+ | Name : | House No.:842 | Thirunavakarasun  | Ari Anthoni Amma  | REJ4752846 | Sex: Female | Age: 37 | Husband's  | Name: | 322
+ | Name : | House No.:843 | Kodanda Pani  | Sangeeth Kumar.K  | REJ5382056        | Sex: Male | Age: 28 | Father's  | Name: | 323
+ | Name : | House No.:844 | K George  | Anthony  | MCL3856747 | Sex: Male | Age: 60 | Father's  | Name: | 324
+ | Name : | House No.:844 | Anthony  | Ankamma  | MCL3856705 | Sex: Female | Age: 54 | Husband's  | Name: | 325
+ | Name : | House No.:s844 | Anthony  | Padma  | MCL3856671 | Sex: Female | Age: 31 | Father's  | Name: | 326
+ | Name : | House No.:845 | Kondaiah  | Lakkappa  | REJ0268912 | Sex: Male | Age: 57 | Father's  | Name: | 327
+ | Name : | House No.:845 | Lakkappa  | Latha  | REJ0268938 | Sex: Female | Age: 47 | Husband's  | Name: | 328
+ | Name : | House No.:845 | Lakkappa  | Sunitha  | MCL4830014 | Sex: Female | Age: 33 | Father's  | Name: | 329
+ | Name : | House No.:845 | Lakkappa  | Sujatha  | MCL4831574 | Sex: Female | Age: 31 | Father's  | Name: | 330
+ | Name : | House No.:845 | Lakkappa  | Arogyadas  | MCL4831582 | Sex: Female | Age: 30 | Father's  | Name:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ | Page 13/29 | Age as on 01-01-2013 | Issued by the Electoral Registration Officer | Electoral Roll 2013 of 154 - Rajarajeshwarinagar (Gen) Assembly Constituency in KarnatakaPart No. 001
+ | Name : | House No.:846 | Sauri Muthu  | Anthony Cruse  | MCL4831525        | Sex: Male | Age: 60 | Father's  | Name: | 332
+ | Name : | House No.:846 | Anthony Cruse  | Meriyamma  | MCL4833380 | Sex: Female | Age: 57 | Husband's  | Name: | 333
+ | Name : | House No.:846 | Anthony Cruse  | Sagaya Mary  | MCL4833372 | Sex: Female | Age: 36 | Father's  | Name: | 334
+ | Name : | House No.:847 | Kondaiah H.  | Sampanth Kumar K  | MCL4833737 | Sex: Male | Age: 42 | Father's  | Name: | 335
+ | Name : | House No.:847 | Sampath Kumar  | Sudha  | MCL4835518 | Sex: Female | Age: 37 | Husband's  | Name: | 336
+ | Name : | House No.:849 | Peddaobalesh  | Obalesh  | REJ0268797 | Sex: Male | Age: 42 | Father's  | Name: | 337
+ | Name : | House No.:849 | Obalesh  | Lakshmamma  | REJ0165209 | Sex: Female | Age: 33 | Husband's  | Name: | 338
+ | Name : | House No.:849 | Kondaiah H.  | Venkataramu  | MCL4833455 | Sex: Male | Age: 37 | Father's  | Name: | 339
+ | Name : | House No.:849 | Venkataramu  | Vasantha  | MCL4832598 | Sex: Female | Age: 34 | Husband's  | Name: | 340
+ | Name : | House No.:850 | Peddaiah  | Ramaiah  | REJ0267161 | Sex: Male | Age: 69 | Father's  | Name: | 341
+ | Name : | House No.:850 | Ramaiah  | Meriyamma  | REJ0163931 | Sex: Female | Age: 54 | Husband's  | Name: | 342
+ | Name : | House No.:851 | Pyatric  | Yesu P  | MCL4836144 | Sex: Male | Age: 41 | Father's  | Name: | 343
+ | Name : | House No.:851 | Yesu  | Anjana  | MCL4833158 | Sex: Female | Age: 37 | Husband's  | Name: | 344
+ | Name : | House No.:853 | Mathayya  | Kotaiah  | MCL4830121 | Sex: Male | Age: 56 | Father's  | Name: | 345
+ | Name : | House No.:853 | Kotaiah  | Annamma  | MCL4832721 | Sex: Female | Age: 54 | Husband's  | Name: | 346
+ | Name : | House No.:853 | Kotaiah  | Kripanandam  | MCL4830329 | Sex: Male | Age: 35 | Father's  | Name: | 347
+ | Name : | House No.:853 | Kotaiah  | Swamidas  | MCL4830170 | Sex: Male | Age: 35 | Father's  | Name: | 348
+ | Name : | House No.:853 | Kripanandam  | Shashikala  | REJ0162693 | Sex: Female | Age: 34 | Husband's  | Name: | 349
+ | Name : | House No.:856 | Peddaiah  | Arun  G.  | REJ0266221 | Sex: Male | Age: 50 | Father's  | Name: | 350
+ | Name : | House No.:856 | Laban  | Elizabeth  | REJ0268367 | Sex: Female | Age: 44 | Husband's  | Name: | 351
+ | Name : | House No.:856 | G Harohan  | Mary  | REJ0162974 | Sex: Female | Age: 41 | Father's  | Name: | 352
+ | Name : | House No.:857 | Thirupal  | Narasamma  | REJ2001394 | Sex: Female | Age: 48 | Husband's  | Name: | 353
+ | Name : | House No.:857 | Thirupal  | Srinivasulu  | MCL4835286 | Sex: Male | Age: 40 | Father's  | Name: | 354
+ | Name : | House No.:857 | Thirupal  | Venkatesh  | MCL4832135 | Sex: Male | Age: 37 | Father's  | Name: | 355
+ | Name : | House No.:857 | Srinivasalu  | Thirupathamma  | MCL3856218 | Sex: Female | Age: 33 | Husband's  | Name: | 356
+ | Name : | House No.:857 | Thirupal  | Venkataraman  | MCL4834685 | Sex: Male | Age: 33 | Father's  | Name: | 357
+ | Name : | House No.:857 | Venkatesh  | Navin Kumari  | MCL3856234 | Sex: Female | Age: 31 | Husband's  | Name: | 358
+ | Name : | House No.:857 | Thirupal  | Ravanamma  | MCL3856226 | Sex: Female | Age: 31 | Father's  | Name: | 359
+ | Name : | House No.:858 | Thirupal  | Guramma  | MCL4836383 | Sex: Female | Age: 57 | Husband's  | Name: | 360
+ | Name : | House No.:858 | Raju P  | Aademma  | REJ2001378 | Sex: Female | Age: 43 | Husband's  | Name:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ | Page 14/29 | Age as on 01-01-2013 | Issued by the Electoral Registration Officer | Electoral Roll 2013 of 154 - Rajarajeshwarinagar (Gen) Assembly Constituency in KarnatakaPart No. 001
+ | Name : | House No.:858 | Kondaiah  | Venkatarao  | MCL4833067 | Sex: Male | Age: 37 | Father's  | Name: | 362
+ | Name : | House No.:858 | Thirupal  | Brahmaiah  | MCL4836177 | Sex: Male | Age: 37 | Father's  | Name: | 363
+ | Name : | House No.:858 | Thirupal  | Eshwaramma  | MCL4836664 | Sex: Female | Age: 33 | Father's  | Name: | 364
+ | Name : | House No.:858 | Brahmaiah  | Anjinamma  | MCL4836193 | Sex: Female | Age: 33 | Husband's  | Name: | 365
+ | Name : | House No.:859 | Kariya  | Guruvaiah  | REJ2001360 | Sex: Male | Age: 41 | Father's  | Name: | 366
+ | Name : | House No.:859 | Guruvaiah  | Vijayamma  | REJ0269092 | Sex: Female | Age: 37 | Husband's  | Name: | 367
+ | Name : | House No.:860 | Peddanarasayya  | Pullaiah K.P.  | MCL4833992 | Sex: Male | Age: 49 | Father's  | Name: | 368
+ | Name : | House No.:860 | Pullaiah K.P.  | Dhanamma K. P.  | MCL4832788 | Sex: Female | Age: 46 | Husband's  | Name: | 369
+ | Name : | House No.:860 | Pullaiah K P  | Naresh Babu K P  | REJ4250130 | Sex: Male | Age: 26 | Father's  | Name: | 370
+ | Name : | House No.:860 | Pullaiah K P  | Maheshwari K P  | REJ4250148 | Sex: Female | Age: 28 | Father's  | Name: | 371
+ | Name : | House No.:860 | Pullaiah K P  | Kirana Babu P.K.  | REJ4250155        | Sex: Male | Age: 25 | Father's  | Name: | 372
+ | Name : | House No.:863 | Yesudas  | Yohan  | REJ0266155 | Sex: Male | Age: 57 | Father's  | Name: | 373
+ | Name : | House No.:863 | Yohan  | Mariyamma  | REJ0163949 | Sex: Female | Age: 52 | Husband's  | Name: | 374
+ | Name : | House No.:866 | Nagaiah  | Chinnaiah M  | REJ0268789 | Sex: Male | Age: 59 | Father's  | Name: | 375
+ | Name : | House No.:866 | Chinnaiah  | Peddakka  | MCL4836136 | Sex: Female | Age: 56 | Husband's  | Name: | 376
+ | Name : | House No.:867 | Ramaiah  | Vijay Raju N.  | MBQ7611767 | Sex: Male | Age: 40 | Father's  | Name: | 377
+ | Name : | House No.:867 | Vijay Raju N.  | Sujatha  | MBQ7611957 | Sex: Female | Age: 34 | Husband's  | Name: | 378
+ | Name : | House No.:867 | Chinnaiah  | Ravanaiah  | MCL4830683 | Sex: Male | Age: 47 | Father's  | Name: | 379
+ | Name : | House No.:867 | Ravanaiah  | Vimala  | MCL4832184 | Sex: Female | Age: 42 | Husband's  | Name: | 380
+ | Name : | House No.:869 | Jakkarayya  | Lakshmamma  | MCL4833224 | Sex: Female | Age: 62 | Husband's  | Name: | 381
+ | Name : | House No.:869 | Jakkarayya  | Obaiah  | MCL4835435 | Sex: Male | Age: 45 | Father's  | Name: | 382
+ | Name : | House No.:870 | Kondaiah  | Yarukalayya  | MCL4833851 | Sex: Male | Age: 57 | Father's  | Name: | 383
+ | Name : | House No.:870 | Irakalayya  | Yangamma  | MCL4832200 | Sex: Female | Age: 50 | Husband's  | Name: | 384
+ | Name : | House No.:872 | Francis  | Gresemma  | MCL4830402 | Sex: Female | Age: 69 | Father's  | Name: | 385
+ | Name : | House No.:872 | Francis  | Ruban  | REJ2001832 | Sex: Male | Age: 42 | Father's  | Name: | 386
+ | Name : | House No.:872 | Ruban  | Jamunameri  | REJ2001840 | Sex: Female | Age: 32 | Husband's  | Name: | 387
+ | Name : | House No.:874 | Pichamma  | Chinnaiah  | MCL4833604 | Sex: Male | Age: 72 | Mother's  | Name: | 388
+ | Name : | House No.:874 | Chinnaiah  | Manikyamma  | MCL4833620 | Sex: Female | Age: 62 | Husband's  | Name: | 389
+ | Name : | House No.:875 | Kondaiah  | Yamaiah  | MCL4836722 | Sex: Male | Age: 44 | Father's  | Name: | 390
+ | Name : | House No.:875 | Yamaiah  | Yamakka  | MCL4836672 | Sex: Female | Age: 40 | Husband's  | Name:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ | Page 15/29 | Age as on 01-01-2013 | Issued by the Electoral Registration Officer | Electoral Roll 2013 of 154 - Rajarajeshwarinagar (Gen) Assembly Constituency in KarnatakaPart No. 001
+ | Name : | House No.:875 | Dyaniyal G  | Thirupal G  | REJ0050633 | Sex: Male | Age: 27 | Father's  | Name: | 392
+ | Name : | House No.:875 | Chinnaiah  | Yakob  | REJ0267815 | Sex: Male | Age: 44 | Father's  | Name: | 393
+ | Name : | House No.:875 | Yakob  | Mariyamma  | REJ0162859 | Sex: Female | Age: 39 | Husband's  | Name: | 394
+ | Name : | House No.:876 | Chinnavenkataiah  | Moses  | MCL4832010 | Sex: Male | Age: 51 | Father's  | Name: | 395
+ | Name : | House No.:876 | Moses  | Bhagyamma  | MCL4832028 | Sex: Female | Age: 39 | Husband's  | Name: | 396
+ | Name : | House No.:877 | Venkataiah  | Nagamma  | REJ0164582 | Sex: Female | Age: 62 | Husband's  | Name: | 397
+ | Name : | House No.:877 | Chinnavenkataiah  | B Israiela  | MCL4831137 | Sex: Male | Age: 39 | Father's  | Name: | 398
+ | Name : | House No.:877 | Nagamma  | Mariyamma  | REJ0164574 | Sex: Female | Age: 34 | Mother's  | Name: | 399
+ | Name : | House No.:877 | Chinavenkatayya  | Salomi  | MCL4834743 | Sex: Female | Age: 32 | Father's  | Name: | 400
+ | Name : | House No.:881 | Muniya  | Yangaiah  | MCL4834081 | Sex: Male | Age: 50 | Father's  | Name: | 401
+ | Name : | House No.:881 | Yangaiah  | Thirupathamma  | MCL4836631 | Sex: Female | Age: 42 | Husband's  | Name: | 402
+ | Name : | House No.:882 | Narasimha G  | Polayya G  | REJ0050690 | Sex: Male | Age: 68 | Father's  | Name: | 403
+ | Name : | House No.:882 | Polaiah  | Ramanaiah  | MCL4833968        | Sex: Female | Age: 57 | Husband's  | Name: | 404
+ | Name : | House No.:882 | Ramakka  | Ravanaiah  | MCL4834677 | Sex: Male | Age: 39 | Mother's  | Name: | 405
+ | Name : | House No.:882 | Ramakka  | Srinivas  | MCL4833505 | Sex: Male | Age: 37 | Mother's  | Name: | 406
+ | Name : | House No.:882 | Ramakka  | Venkatesh  | REJ2000099 | Sex: Male | Age: 35 | Mother's  | Name: | 407
+ | Name : | House No.:882 | Ravanaiah  | Rathnamma  | MCL4835112 | Sex: Female | Age: 32 | Husband's  | Name: | 408
+ | Name : | House No.:882 | Ramakka  | Krishna  | REJ0051565 | Sex: Male | Age: 32 | Mother's  | Name: | 409
+ | Name : | House No.:884 | Achaiah  | Venkatesh G  | MCL4830378 | Sex: Male | Age: 57 | Father's  | Name: | 410
+ | Name : | House No.:884 | Venkatesh G  | Laxmi  | REJ2000107 | Sex: Female | Age: 47 | Husband's  | Name: | 411
+ | Name : | House No.:885 | Peddaiah  | Krishna G.  | MCL3856267 | Sex: Male | Age: 47 | Father's  | Name: | 412
+ | Name : | House No.:885 | Krishna G.  | Nagarathnamma  | MCL3856275 | Sex: Female | Age: 39 | Husband's  | Name: | 413
+ | Name : | House No.:885 | Musalaiah  | Daniel  | REJ2000115 | Sex: Male | Age: 57 | Father's  | Name: | 414
+ | Name : | House No.:885 | Daniel  | Rajamma  | REJ0165167 | Sex: Female | Age: 52 | Husband's  | Name: | 415
+ | Name : | House No.:885 | Daniel  | Naresh Absalam  | MBQ0968750 | Sex: Male | Age: 27 | Father's  | Name: | 416
+ | Name : | House No.:886 | Guruvaiah  | Nagamma  | REJ0164301 | Sex: Female | Age: 81 | Husband's  | Name: | 417
+ | Name : | House No.:886 | Nagaraju G.  | Sinaiah N.  | MCL4833497 | Sex: Male | Age: 34 | Father's  | Name: | 418
+ | Name : | House No.:888 | Devaiah  | Jeshwa  | 165511            | Sex: Male | Age: 46 | Father's  | Name: | 419
+ | Name : | House No.:888 | Jeshwa  | Manikyamma  | REJ0266734 | Sex: Female | Age: 44 | Husband's  | Name: | 420
+ | Name : | House No.:890 | Muniyappa  | Lakshmamma  | MCL4836367 | Sex: Female | Age: 54 | Husband's  | Name:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ | Page 16/29 | Age as on 01-01-2013 | Issued by the Electoral Registration Officer | Electoral Roll 2013 of 154 - Rajarajeshwarinagar (Gen) Assembly Constituency in KarnatakaPart No. 001
+ | Name : | House No.:890 | Muniyappa  | Prasad Babu  | MCL4836607 | Sex: Male | Age: 40 | Father's  | Name: | 422
+ | Name : | House No.:890 | Prasad Babu  | Munirathna  | MCL4836623 | Sex: Female | Age: 35 | Husband's  | Name: | 423
+ | Name : | House No.:891 | Kotaiah  | Sudarshan  | MCL4830113 | Sex: Male | Age: 40 | Father's  | Name: | 424
+ | Name : | House No.:891 | Sudarshan  | Shyamalamma  | MCL4832739 | Sex: Female | Age: 36 | Husband's  | Name: | 425
+ | Name : | House No.:892 | Mani  | Karthikeyan  | REJ4250015 | Sex: Male | Age: 22 | Father's  | Name: | 426
+ | Name : | House No.:894 | Ramaiah  | Narayan  | MCL3857174 | Sex: Male | Age: 40 | Father's  | Name: | 427
+ | Name : | House No.:894 | Narayan  | Balanagamma  | MCL4842324 | Sex: Female | Age: 35 | Husband's  | Name: | 428
+ | Name : | House No.:895 | Ramaiah  | Srinivas  | MCL4836276 | Sex: Male | Age: 46 | Father's  | Name: | 429
+ | Name : | House No.:895 | Srinivas  | Kanyakumari  | MCL4832671 | Sex: Female | Age: 37 | Husband's  | Name: | 430
+ | Name : | House No.:896 | Raghaiah  | Gangamma  | REJ0267864 | Sex: Female | Age: 67 | Husband's  | Name: | 431
+ | Name : | House No.:896 | Gangamma  | Venkatesh  | REJ2001295 | Sex: Male | Age: 46 | Mother's  | Name: | 432
+ | Name : | House No.:896 | Venkatesh  | Gresamma  | REJ2001303 | Sex: Female | Age: 47 | Husband's  | Name: | 433
+ | Name : | House No.:899 | Damodar  | Sumathi  | MCL4830485 | Sex: Female | Age: 33 | Father's  | Name: | 434
+ | Name : | House No.:899 | Damodar  | Raju  | MCL4835658 | Sex: Male | Age: 31 | Father's  | Name: | 435
+ | Name : | House No.:901 | Narasaiah  | Narasimhalu  | REJ0164707 | Sex: Male | Age: 67 | Father's  | Name: | 436
+ | Name : | House No.:901 | Narasimhalu  | Narasamma  | MCL4830782 | Sex: Female | Age: 57 | Husband's  | Name: | 437
+ | Name : | House No.:901 | Narasimalu  | Narasamma  | REJ0267310 | Sex: Female | Age: 40 | Husband's  | Name: | 438
+ | Name : | House No.:901 | Narasimhalu  | Narasikanhamurthi  | REJ0164442 | Sex: Male | Age: 40 | Father's  | Name: | 439
+ | Name : | House No.:901 | Narasimhalu  | Srinivas  | REJ0268748 | Sex: Male | Age: 38 | Father's  | Name: | 440
+ | Name : | House No.:901 | Narasimha Murthy  | Adilakshmi  | MCL4831780 | Sex: Female | Age: 36 | Husband's  | Name: | 441
+ | Name : | House No.:901 | Narasimhalu  | Nagaraj  | REJ0267179 | Sex: Male | Age: 35 | Father's  | Name: | 442
+ | Name : | House No.:901 | Narasimhalu  | Ravikumar  | REJ2000586 | Sex: Male | Age: 34 | Father's  | Name: | 443
+ | Name : | House No.:902 | Narasimhaiah  | Narasimha N  | MCL4832606 | Sex: Male | Age: 40 | Father's  | Name: | 444
+ | Name : | House No.:902 | Narasimha  | Alamelu  | MCL4832580 | Sex: Female | Age: 36 | Husband's  | Name: | 445
+ | Name : | House No.:905 | Chandrappa  | Thirupalamma  | MCL4831210 | Sex: Female | Age: 67 | Husband's  | Name: | 446
+ | Name : | House No.:905 | Srinivas C  | Masthanamma  | REJ2001220 | Sex: Female | Age: 37 | Husband's  | Name: | 447
+ | Name : | House No.:906 | Kondaiah  | Kondamma  | MCL4834354 | Sex: Female | Age: 62 | Husband's  | Name: | 448
+ | Name : | House No.:906 | Kodamma  | Nagamma  | MCL4835252 | Sex: Female | Age: 35 | Mother's  | Name: | 449
+ | Name : | House No.:906 | Honnurayya  | H. Ramu  | MBQ0969246 | Sex: Male | Age: 62 | Father's  | Name: | 450
+ | Name : | House No.:906 | H. Ramu  | Srinivas  | MCL4834503 | Sex: Male | Age: 37 | Father's  | Name:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ | Page 17/29 | Age as on 01-01-2013 | Issued by the Electoral Registration Officer | Electoral Roll 2013 of 154 - Rajarajeshwarinagar (Gen) Assembly Constituency in KarnatakaPart No. 001
+ | Name : | House No.:907 | Gurappa  | Narasimhalu  | REJ0164863 | Sex: Male | Age: 55 | Father's  | Name: | 452
+ | Name : | House No.:907 | Narasimhalu  | Lakshmamma  | REJ0164855 | Sex: Female | Age: 49 | Husband's  | Name: | 453
+ | Name : | House No.:908 | Narayanappa  | Narasimha  | REJ0163394 | Sex: Male | Age: 44 | Father's  | Name: | 454
+ | Name : | House No.:908 | Narasimha  | Rukmani  | REJ0163766 | Sex: Female | Age: 39 | Husband's  | Name: | 455
+ | Name : | House No.:908 | Lakshmaiah  | Gangappa  | MCL4830089 | Sex: Male | Age: 37 | Father's  | Name: | 456
+ | Name : | House No.:908 | Gangappa  | Narayanamma  | MCL4832564 | Sex: Female | Age: 33 | Husband's  | Name: | 457
+ | Name : | House No.:910 | Thirupal  | J. Ramu  | REJ0267948 | Sex: Male | Age: 69 | Father's  | Name: | 458
+ | Name : | House No.:910 | Jayaramu  | Subbamma  | REJ0165159 | Sex: Female | Age: 64 | Husband's  | Name: | 459
+ | Name : | House No.:910 | Lallukumara  | Manju  | MCL4832507        | Sex: Female | Age: 2 | Husband's  | Name: | 460
+ | Name : | House No.:915 | Obalesh  | Jeevarathnam O  | REJ0265876 | Sex: Male | Age: 28 | Father's  | Name: | 461
+ | Name : | House No.:915 | Obbaiah  | Manoja O  | REJ0163758 | Sex: Female | Age: 27 | Father's  | Name: | 462
+ | Name : | House No.:915 | Obalesh  | Raji O  | REJ0163055 | Sex: Female | Age: 26 | Father's  | Name: | 463
+ | Name : | House No.:916 | K. George  | Aashirwadam K.G  | MCL4835740 | Sex: Male | Age: 54 | Father's  | Name: | 464
+ | Name : | House No.:916 | Aashirwadam K.G  | Mary  | MCL4835757 | Sex: Female | Age: 43 | Husband's  | Name: | 465
+ | Name : | House No.:917 | Venkatesh  | Gopal  | REJ0267922 | Sex: Male | Age: 74 | Father's  | Name: | 466
+ | Name : | House No.:917 | Gopal  | Emilamma  | REJ0267914 | Sex: Female | Age: 60 | Husband's  | Name: | 467
+ | Name : | House No.:917 | Gopal  | Nagamma  | MCL4843942 | Sex: Female | Age: 34 | Father's  | Name: | 468
+ | Name : | House No.:917 | Gopal  | Sudha  | MCL3856291 | Sex: Female | Age: 31 | Father's  | Name: | 469
+ | Name : | House No.:917 | Gopal  | Yesuraj  | MCL4831624 | Sex: Male | Age: 30 | Father's  | Name: | 470
+ | Name : | House No.:918 | George  | Saiman Das  | MCL3856648 | Sex: Male | Age: 55 | Father's  | Name: | 471
+ | Name : | House No.:918 | Saiman Das  | Barnata Mary  | MCL3856630 | Sex: Female | Age: 53 | Husband's  | Name: | 472
+ | Name : | House No.:918 | Saiman Das  | Sampath Kumar  | MCL3856440 | Sex: Male | Age: 32 | Father's  | Name: | 473
+ | Name : | House No.:918 | Saiman Das  | Suresh Kumar  | MCL4833190 | Sex: Male | Age: 30 | Father's  | Name: | 474
+ | Name : | House No.:918 | Yamaiah G  | Hemavathi Y  | REJ2001089 | Sex: Female | Age: 26 | Father's  | Name: | 475
+ | Name : | House No.:920 | Nagabhushan G.  | Ambika  | MBQ0969683 | Sex: Female | Age: 50 | Husband's  | Name: | 476
+ | Name : | House No.:921 | Rosaiah  | Yesudas  | MCL4836318 | Sex: Male | Age: 57 | Father's  | Name: | 477
+ | Name : | House No.:921 | Yesudas  | Elizabeth  | MCL4836326 | Sex: Female | Age: 52 | Husband's  | Name: | 478
+ | Name : | House No.:921 | Yesudas  | Prabhudas  | MCL4832259 | Sex: Male | Age: 34 | Father's  | Name: | 479
+ | Name : | House No.:921 | Yesudas  | Velanganni  | MCL4833349 | Sex: Female | Age: 31 | Father's  | Name: | 480
+ | Name : | House No.:922 | Polaiah  | Nagamma  | REJ2001071 | Sex: Female | Age: 54 | Husband's  | Name:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ | Page 18/29 | Age as on 01-01-2013 | Issued by the Electoral Registration Officer | Electoral Roll 2013 of 154 - Rajarajeshwarinagar (Gen) Assembly Constituency in KarnatakaPart No. 001
+ | Name : | House No.:922 | Polaiah  | Nagaraj  | MCL4830709 | Sex: Male | Age: 31 | Father's  | Name: | 482
+ | Name : | House No.:923 | Raghaiah  | Venkatesh  | REJ5392345        | Sex: Male | Age: 46 | Father's  | Name: | 483
+ | Name : | House No.:923 | Venkatesh  | Manju  | REJ5392311        | Sex: Female | Age: 42 | Husband's  | Name: | 484
+ | Name : | House No.:923 | Raghaiah  | Krishna  | REJ0163220 | Sex: Male | Age: 37 | Father's  | Name: | 485
+ | Name : | House No.:924 | Raghaiah  | Ramu R.  | REJ0266478 | Sex: Male | Age: 54 | Father's  | Name: | 486
+ | Name : | House No.:924 | R. Ramu  | Muniyamma  | REJ0163014 | Sex: Female | Age: 49 | Husband's  | Name: | 487
+ | Name : | House No.:924 | Ramu R.  | Chandrakala  | MCL4831046 | Sex: Female | Age: 30 | Father's  | Name: | 488
+ | Name : | House No.:925 | ramulingappa  | Obalaiah  | REJ5238449        | Sex: Male | Age: 43 | Father's  | Name: | 489
+ | Name : | House No.:927 | David  | Michael Susili  | REJ0268102 | Sex: Female | Age: 62 | Husband's  | Name: | 490
+ | Name : | House No.:927 | Michael Sisala  | Thomas Vilsan  | REJ2001030 | Sex: Male | Age: 43 | Mother's  | Name: | 491
+ | Name : | House No.:927 | Michael Sisala  | Francis George  | MCL4830006 | Sex: Male | Age: 38 | Mother's  | Name: | 492
+ | Name : | House No.:927 | Michael Sisali  | Velanganni Pushpa  | MCL4830477 | Sex: Female | Age: 34 | Mother's  | Name: | 493
+ | Name : | House No.:927 | Michael Sisili  | Sagay Nathan  | MCL4831541 | Sex: Male | Age: 34 | Mother's  | Name: | 494
+ | Name : | House No.:928 | P.T. Francis  | P.F. Vargees  | MCL4834396        | Sex: Male | Age: 54 | Father's  | Name: | 495
+ | Name : | House No.:928 | P.S. Vargees  | Thangamani  | REJ2001022 | Sex: Female | Age: 49 | Husband's  | Name: | 496
+ | Name : | House No.:928 | Vargees P.F  | Vimid  | MCL4830469 | Sex: Female | Age: 30 | Father's  | Name: | 497
+ | Name : | House No.:928 | obalaiah  | Narayanamma  | REJ5238456        | Sex: Female | Age: 41 | Husband's  | Name: | 498
+ | Name : | House No.:929 | Agastin R.  | Clara  | REJ0164681 | Sex: Female | Age: 65 | Husband's  | Name: | 499
+ | Name : | House No.:929 | Clara  | Andurs Raj  | REJ5392337        | Sex: Male | Age: 42 | Mother's  | Name: | 500
+ | Name : | House No.:929 | Ramu  | Satish  | MBQ0969592 | Sex: Male | Age: 40 | Father's  | Name: | 501
+ | Name : | House No.:929 | Androse Raj  | Sagay Mary  | REJ5392394        | Sex: Female | Age: 37 | Husband's  | Name: | 502
+ | Name : | House No.:929 | Satish  | Juliet  | MBQ0969188 | Sex: Female | Age: 35 | Husband's  | Name: | 503
+ | Name : | House No.:930 | S. Jani  | Rahimabi  | MCL4832853 | Sex: Female | Age: 68 | Husband's  | Name: | 504
+ | Name : | House No.:930 | S. Jani  | Syed Hanif  | REJ5392402        | Sex: Male | Age: 50 | Father's  | Name: | 505
+ | Name : | House No.:930 | S. Jani  | Hamidabi  | MCL4834230 | Sex: Female | Age: 48 | Father's  | Name: | 506
+ | Name : | House No.:930 | S. Jani  | Syed Dasthagir  | MCL4831129 | Sex: Male | Age: 41 | Father's  | Name: | 507
+ | Name : | House No.:930 | S. Jani  | Syed Umar  | MCL4836540 | Sex: Male | Age: 42 | Father's  | Name: | 508
+ | Name : | House No.:930 | Syed Anifa  | Thahsina  | REJ5392329        | Sex: Female | Age: 38 | Husband's  | Name: | 509
+ | Name : | House No.:930 | S. Jani  | Syed Hussain  | MCL4832549 | Sex: Male | Age: 37 | Father's  | Name: | 510
+ | Name : | House No.:930 | Syed Jafar  | Yasmeen  | REJ5392287        | Sex: Female | Age: 36 | Husband's  | Name:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ | Page 19/29 | Age as on 01-01-2013 | Issued by the Electoral Registration Officer | Electoral Roll 2013 of 154 - Rajarajeshwarinagar (Gen) Assembly Constituency in KarnatakaPart No. 001
+ | Name : | House No.:930 | Syed Dasthagir  | Sabiha B  | MCL4832861 | Sex: Female | Age: 35 | Husband's  | Name: | 512
+ | Name : | House No.:932 | Alagan  | Chinnaiah  | REJ2000982 | Sex: Male | Age: 65 | Father's  | Name: | 513
+ | Name : | House No.:932 | Chinnaiah  | Mary  | REJ2000990 | Sex: Female | Age: 42 | Husband's  | Name: | 514
+ | Name : | House No.:932 | Chinnaiah  | Prabhu  | REJ0266254 | Sex: Male | Age: 35 | Father's  | Name: | 515
+ | Name : | House No.:932 | Chinnaiah  | Mahalakshmi  | MCL4834859 | Sex: Female | Age: 32 | Father's  | Name: | 516
+ | Name : | House No.:935 | Thambi  | Manohar  | MCL4830667 | Sex: Male | Age: 42 | Father's  | Name: | 517
+ | Name : | House No.:935 | Manohar  | Narasamma  | REJ0269167 | Sex: Female | Age: 37 | Husband's  | Name: | 518
+ | Name : | House No.:935 | Kullayappa  | Lakshmi  | MCL4835997 | Sex: Female | Age: 42 | Husband's  | Name: | 519
+ | Name : | House No.:935 | Arogyaswamy  | M.Thambi  | MCL3856069 | Sex: Male | Age: 77 | Father's  | Name: | 520
+ | Name : | House No.:935 | M.Thambi  | Ramaminakshi  | MCL4831103 | Sex: Female | Age: 52 | Husband's  | Name: | 521
+ | Name : | House No.:935 | M. Thambi  | Saroja  | REJ5134283        | Sex: Female | Age: 31 | Father's  | Name: | 522
+ | Name : | House No.:936 | Achaiah  | Lakshmi  | MCL4832648 | Sex: Female | Age: 31 | Father's  | Name: | 523
+ | Name : | House No.:936 | Kullayappa  | Kullayappa  | MCL4835989 | Sex: Male | Age: 50 | Father's  | Name: | 524
+ | Name : | House No.:937 | Nallappa  | Kullayappa  K  | MCL4842480 | Sex: Male | Age: 57 | Father's  | Name: | 525
+ | Name : | House No.:937 | Kullayappa  | Gangamma  | MCL4842456 | Sex: Female | Age: 52 | Husband's  | Name: | 526
+ | Name : | House No.:937 | Anjanappa  | Prasad  | REJ0266692 | Sex: Male | Age: 38 | Father's  | Name: | 527
+ | Name : | House No.:937 | Achaiah  | Gangadhar  | REJ0266726 | Sex: Male | Age: 35 | Father's  | Name: | 528
+ | Name : | House No.:937 | Gangadhar  | Sunitha  | REJ0050526 | Sex: Female | Age: 29 | Husband's  | Name: | 529
+ | Name : | House No.:937 | Venkatesh  | Manjunatha  | REJ0051193 | Sex: Male | Age: 26 | Father's  | Name: | 530
+ | Name : | House No.:937 | Venkatesh  | Anitha  | REJ0050997 | Sex: Female | Age: 25 | Father's  | Name: | 531
+ | Name : | House No.:937 | Gangappa  | Achaiah  | MBQ7611650 | Sex: Male | Age: 79 | Father's  | Name: | 532
+ | Name : | House No.:937 | Achaiah  | Peddakka  | MCL4832663 | Sex: Female | Age: 34 | Father's  | Name: | 533
+ | Name : | House No.:938 | Ramaiah  | Nagamma  | MCL4830832 | Sex: Female | Age: 57 | Father's  | Name: | 534
+ | Name : | House No.:938 | Nagamma  | Dhanalakshmi  | MCL4833174 | Sex: Female | Age: 30 | Mother's  | Name: | 535
+ | Name : | House No.:938 | Gangulu  | Mariyamma  | REJ2000933 | Sex: Female | Age: 69 | Husband's  | Name: | 536
+ | Name : | House No.:938 | Devaiah  | Narasamma  | REJ2000958 | Sex: Female | Age: 54 | Husband's  | Name: | 537
+ | Name : | House No.:938 | Jagan  | Shanthi  | REJ0163774 | Sex: Female | Age: 39 | Husband's  | Name: | 538
+ | Name : | House No.:938 | Devaiah  | Gangulappa  | REJ2000974 | Sex: Male | Age: 39 | Father's  | Name: | 539
+ | Name : | House No.:941 | Ramaiah  | Ravanaiah  | MCL4830741 | Sex: Male | Age: 46 | Father's  | Name: | 540
+ | Name : | House No.:941 | Ravanaiah  | Ravanamma  | MCL4834172 | Sex: Female | Age: 37 | Husband's  | Name:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ | Page 20/29 | Age as on 01-01-2013 | Issued by the Electoral Registration Officer | Electoral Roll 2013 of 154 - Rajarajeshwarinagar (Gen) Assembly Constituency in KarnatakaPart No. 001
+ | Name : | House No.:944 | Gangappa  | Ganganna  | REJ2000701 | Sex: Male | Age: 50 | Father's  | Name: | 542
+ | Name : | House No.:944 | Ganganna  | Devamma  | REJ0165076 | Sex: Female | Age: 47 | Husband's  | Name: | 543
+ | Name : | House No.:944 | Ganganna  | Penchalaiah  | MCL4835104 | Sex: Male | Age: 35 | Father's  | Name: | 544
+ | Name : | House No.:944 | Ganganna  | Chinnababu  | MCL4830816 | Sex: Male | Age: 34 | Father's  | Name: | 545
+ | Name : | House No.:944 | Ganganna  | Kanthaiah  | MCL4832929 | Sex: Male | Age: 33 | Father's  | Name: | 546
+ | Name : | House No.:944 | Ganganna  | Sipayi  | MCL4833125 | Sex: Male | Age: 28 | Father's  | Name: | 547
+ | Name : | House No.:944 | Ganganna  | Peddakka  | REJ4250031 | Sex: Female | Age: 42 | Husband's  | Name: | 548
+ | Name : | House No.:945 | Muniswamy  | M Jayapalan  | REJ0267591 | Sex: Male | Age: 65 | Father's  | Name: | 549
+ | Name : | House No.:945 | Jayapal  | Papamma  | REJ0165217 | Sex: Female | Age: 55 | Husband's  | Name: | 550
+ | Name : | House No.:945 | Aarmugadasa  | Suresh A  | MCL4842076 | Sex: Male | Age: 39 | Father's  | Name: | 551
+ | Name : | House No.:945 | Jayapal  | Ramesha  | REJ2000792 | Sex: Male | Age: 36 | Father's  | Name: | 552
+ | Name : | House No.:945 | Suresh  | Yashoda  | MCL4832325 | Sex: Female | Age: 35 | Husband's  | Name: | 553
+ | Name : | House No.:945 | Ramesh  | Lakshmi  | MBQ0969493 | Sex: Female | Age: 32 | Husband's  | Name: | 554
+ | Name : | House No.:946 | Dorai  | D Shyam  | MCL4836904 | Sex: Male | Age: 41 | Father's  | Name: | 555
+ | Name : | House No.:946 | Thirumalaiah  | Jivayya  | MCL4834925 | Sex: Male | Age: 52 | Father's  | Name: | 556
+ | Name : | House No.:946 | Jivayya  | Achamma  | MCL4835070 | Sex: Female | Age: 47 | Husband's  | Name: | 557
+ | Name : | House No.:946 | Jivaiah  | Prameela  | MCL4834891 | Sex: Female | Age: 31 | Father's  | Name: | 558
+ | Name : | House No.:948 | Kumar Babu  | Selvi  | MCL4836151 | Sex: Female | Age: 46 | Husband's  | Name: | 559
+ | Name : | House No.:948 | Venkatappa  | Krishnappa  | MCL4835021 | Sex: Male | Age: 58 | Father's  | Name: | 560
+ | Name : | House No.:949 | Raghavan  | Neelamma  | MCL4835864 | Sex: Female | Age: 48 | Husband's  | Name: | 561
+ | Name : | House No.:949 | Neelamma  | Radhika  | MCL4834735 | Sex: Female | Age: 32 | Mother's  | Name: | 562
+ | Name : | House No.:951 | Vandanam  | V. Saundar  | REJ0269050 | Sex: Male | Age: 49 | Father's  | Name: | 563
+ | Name : | House No.:951 | Saundar  | Susheelamma  | MCL4833554 | Sex: Female | Age: 47 | Husband's  | Name: | 564
+ | Name : | House No.:956 | Kopayya  | Sudhakar  | MCL4830865 | Sex: Male | Age: 51 | Father's  | Name: | 565
+ | Name : | House No.:956 | Sudhakar  | Sujatha  | MCL4830857 | Sex: Female | Age: 37 | Husband's  | Name: | 566
+ | Name : | House No.:959 | Subbaiah  | Kanthamma  | MCL4835583 | Sex: Female | Age: 57 | Husband's  | Name: | 567
+ | Name : | House No.:964 | Venkataiah  | B. Venkatesh  | MCL4831996 | Sex: Male | Age: 44 | Father's  | Name: | 568
+ | Name : | House No.:964 | Prasad K  | Geetha M  | REJ0266700 | Sex: Female | Age: 35 | Husband's  | Name: | 569
+ | Name : | House No.:964 | B Venkatesh  | Sampurna B  | MCL3856283 | Sex: Female | Age: 31 | Husband's  | Name: | 570
+ | Name : | House No.:964 | Siddaiah  | Chinnaiah  | MCL4834719 | Sex: Male | Age: 41 | Father's  | Name:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ | Page 21/29 | Age as on 01-01-2013 | Issued by the Electoral Registration Officer | Electoral Roll 2013 of 154 - Rajarajeshwarinagar (Gen) Assembly Constituency in KarnatakaPart No. 001
+ | Name : | House No.:964 | Chinnaiah  | Venkatalakshmamma  | MCL4834727 | Sex: Female | Age: 36 | Husband's  | Name: | 572
+ | Name : | House No.:964 | Late Lakshman  | Hamsaveni  | REJ4750188 | Sex: Female | Age: 44 | Husband's  | Name: | 573
+ | Name : | House No.:965 | Chinnaiah  | Achamma  | MCL4836052 | Sex: Female | Age: 82 | Husband's  | Name: | 574
+ | Name : | House No.:965 | Chinnaiah  | Obalesh  | REJ2000719 | Sex: Male | Age: 57 | Father's  | Name: | 575
+ | Name : | House No.:965 | Obalesh  | Rajinamma  | MCL4836045 | Sex: Female | Age: 42 | Husband's  | Name: | 576
+ | Name : | House No.:965 | Obalesh  | Latha  | MCL4836391 | Sex: Female | Age: 31 | Father's  | Name: | 577
+ | Name : | House No.:966 | Chinnaiah  | Obaiah  | REJ0267666 | Sex: Male | Age: 59 | Father's  | Name: | 578
+ | Name : | House No.:966 | Obaiah  | Raju  | MCL4830972 | Sex: Male | Age: 36 | Father's  | Name: | 579
+ | Name : | House No.:966 | Obaiah  | Shobha  | MCL4833091 | Sex: Female | Age: 33 | Father's  | Name: | 580
+ | Name : | House No.:966 | Obaiah  | Rajesh  | MCL4831236 | Sex: Male | Age: 31 | Father's  | Name: | 581
+ | Name : | House No.:967 | Kriparava  | Salman  | MCL4833034 | Sex: Male | Age: 44 | Father's  | Name: | 582
+ | Name : | House No.:968 | Nagaraj  | Ishrnathi  | MCL4832887 | Sex: Female | Age: 44 | Husband's  | Name: | 583
+ | Name : | House No.:968 | Kriparava  | Suguna  | MCL4835872 | Sex: Female | Age: 38 | Father's  | Name: | 584
+ | Name : | House No.:968 | Kriparava  | Esurathnam  | MCL4832176 | Sex: Male | Age: 37 | Father's  | Name: | 585
+ | Name : | House No.:968 | Kriparava  | Roopa  | MCL4832895        | Sex: Female | Age: 31 | Father's  | Name: | 586
+ | Name : | House No.:973 | Chinnanarasappa  | M.N. Narasimhalu  | REJ0268342 | Sex: Male | Age: 64 | Father's  | Name: | 587
+ | Name : | House No.:973 | Narasimhalu  | Subbamma  | REJ0268094 | Sex: Female | Age: 56 | Husband's  | Name: | 588
+ | Name : | House No.:973 | Narasimhalu  | N. Murthy  | REJ0268391 | Sex: Male | Age: 40 | Father's  | Name: | 589
+ | Name : | House No.:973 | Narasimhalu  | Muruli  | MCL4832523 | Sex: Male | Age: 39 | Father's  | Name: | 590
+ | Name : | House No.:973 | Murthy  | Sujatha  | MCL4833646 | Sex: Female | Age: 33 | Husband's  | Name: | 591
+ | Name : | House No.:973 | Narasimhalu  | Anjaneyalu  | MCL4832192 | Sex: Male | Age: 32 | Father's  | Name: | 592
+ | Name : | House No.:973 | Narasimhalu  | Nagendra Prasad  | MCL4834339 | Sex: Male | Age: 30 | Father's  | Name: | 593
+ | Name : | House No.:975 | Marappa  | Pakirappa  | MBQ7612203 | Sex: Male | Age: 53 | Father's  | Name: | 594
+ | Name : | House No.:975 | Pakirappa  | Narasamma  | REJ0268268 | Sex: Female | Age: 46 | Husband's  | Name: | 595
+ | Name : | House No.:975 | Pakirappa  | Krishnamma  | MCL4831061 | Sex: Female | Age: 30 | Father's  | Name: | 596
+ | Name : | House No.:977 | Kondaiah  | Adilakshmi  | MCL4830410 | Sex: Female | Age: 48 | Husband's  | Name: | 597
+ | Name : | House No.:977 | Kondaiah  | Madhusudan  | MCL4833711 | Sex: Male | Age: 30 | Father's  | Name: | 598
+ | Name : | House No.:978 | Gangappa  | Gangadhar  | MCL4834842 | Sex: Male | Age: 42 | Father's  | Name: | 599
+ | Name : | House No.:978 | Gangadar  | Gangarathna  | MBQ0969733 | Sex: Female | Age: 40 | Husband's  | Name: | 600
+ | Name : | House No.:979 | Narasimhalu  | Obalesh  | MCL4835245 | Sex: Male | Age: 35 | Father's  | Name:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ | Page 22/29 | Age as on 01-01-2013 | Issued by the Electoral Registration Officer | Electoral Roll 2013 of 154 - Rajarajeshwarinagar (Gen) Assembly Constituency in KarnatakaPart No. 001
+ | Name : | House No.:979 | Obalesh  | Gangadevi  | MBQ0969634 | Sex: Female | Age: 32 | Husband's  | Name: | 602
+ | Name : | House No.:987 | Sirappa  | Chandra  | MCL4830154 | Sex: Male | Age: 42 | Father's  | Name: | 603
+ | Name : | House No.:987 | Chandra  | Obalamma  | MBQ0969642 | Sex: Female | Age: 40 | Husband's  | Name: | 604
+ | Name : | House No.:987 | Peddagangappa  | Gangappa  | REJ0267583 | Sex: Male | Age: 70 | Father's  | Name: | 605
+ | Name : | House No.:987 | Gangappa  | Gangamma  | REJ2000636 | Sex: Female | Age: 61 | Husband's  | Name: | 606
+ | Name : | House No.:987 | Gangappa  | G.V.Prasad  | REJ2000644 | Sex: Male | Age: 38 | Father's  | Name: | 607
+ | Name : | House No.:989 | Chinna Obalesh  | Ramanjaneyalu  | MCL4840526 | Sex: Male | Age: 55 | Father's  | Name: | 608
+ | Name : | House No.:989 | Ramanjaneyalu  | Gangadevi  | MBQ0969659 | Sex: Female | Age: 32 | Husband's  | Name: | 609
+ | Name : | House No.:993 | Doddanna  | Obalesh S.  | REJ0267146 | Sex: Male | Age: 70 | Father's  | Name: | 610
+ | Name : | House No.:993 | Obalesh  | Salamma  | REJ0267153 | Sex: Female | Age: 67 | Husband's  | Name: | 611
+ | Name : | House No.:993 | Obalesh  | Prabhakar  | MCL4832275 | Sex: Male | Age: 31 | Father's  | Name: | 612
+ | Name : | House No.:994 | Gangadhar  | Shivamma  | REJ2000461 | Sex: Female | Age: 37 | Husband's  | Name: | 613
+ | Name : | House No.:994 | Obalesh  | Aadinarayanamma  | MCL4830303 | Sex: Female | Age: 32 | Husband's  | Name: | 614
+ | Name : | House No.:994 | Krishnappa  | Lakshmidevi  | REJ0163451 | Sex: Female | Age: 28 | Husband's  | Name: | 615
+ | Name : | House No.:995 | Naganna  | Gowramma  | REJ2000560 | Sex: Female | Age: 44 | Husband's  | Name: | 616
+ | Name : | House No.:995 | Naganna  | Murthy  | MCL4834321 | Sex: Male | Age: 30 | Father's  | Name: | 617
+ | Name : | House No.:996 | Narasimhan  | Lakshmidevi  | REJ2000552 | Sex: Female | Age: 55 | Husband's  | Name: | 618
+ | Name : | House No.:996 | Narasimhan  | Mukunda  | MCL4836862 | Sex: Male | Age: 37 | Father's  | Name: | 619
+ | Name : | House No.:996 | Narasimhan  | Harish  | MCL4830543 | Sex: Male | Age: 34 | Father's  | Name: | 620
+ | Name : | House No.:996 | Hanumanthappa  | H. Suresh  | MCL4832085 | Sex: Male | Age: 42 | Father's  | Name: | 621
+ | Name : | House No.:996 | H. Suresh  | Adilakshmi  | MCL4832093 | Sex: Female | Age: 37 | Husband's  | Name: | 622
+ | Name : | House No.:997 | Narasappa  | K. Narasimhalu  | MCL4834636 | Sex: Male | Age: 64 | Father's  | Name: | 623
+ | Name : | House No.:997 | K. Narasimhalu  | Lakshminarasamma  | REJ2000545 | Sex: Female | Age: 54 | Husband's  | Name: | 624
+ | Name : | House No.:997 | K. Narasimhalu  | K.N.Krishna  | REJ0266908 | Sex: Male | Age: 39 | Father's  | Name: | 625
+ | Name : | House No.:997 | Krishna K. N.  | Arathi  | MCL4834032 | Sex: Female | Age: 37 | Husband's  | Name: | 626
+ | Name : | House No.:997 | K. Narasimhalu  | Thulasi  | MCL4834057 | Sex: Female | Age: 31 | Father's  | Name: | 627
+ | Name : | House No.:999 | Veeraiah  | Pothakka  | MCL4831889 | Sex: Female | Age: 72 | Husband's  | Name: | 628
+ | Name : | House No.:999 | Veeraiah  | S. V. Nagabhushanam  | MCL3856010 | Sex: Male | Age: 53 | Father's  | Name: | 629
+ | Name : | House No.:999 | S. V. Nagabhushan  | Kamala N  | MCL3856002 | Sex: Female | Age: 43 | Husband's  | Name: | 630
+ | Name : | House No.:999 | K. Narasimhalu  | K. N. Chandrashekhar  | Murthy  | MBQ7612062 | Sex: Male | Age: 29 | Father's  | Name:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ | Page 23/29 | Age as on 01-01-2013 | Issued by the Electoral Registration Officer | Electoral Roll 2013 of 154 - Rajarajeshwarinagar (Gen) Assembly Constituency in KarnatakaPart No. 001
+ | Name : | House No.:999 | K. Narasimhalu  | K. N. Padma  | MBQ7611890 | Sex: Female | Age: 27 | Father's  | Name: | 632
+ | Name : | House No.:1000 | Kadirappa  | Peddakka  | MCL4831806 | Sex: Female | Age: 77 | Husband's  | Name: | 633
+ | Name : | House No.:1000 | Narasimhalu  | Shanthamma  | REJ0267716 | Sex: Female | Age: 37 | Husband's  | Name: | 634
+ | Name : | House No.:1001 | Peddanna  | Narasimhalu  | MCL4832879 | Sex: Male | Age: 54 | Father's  | Name: | 635
+ | Name : | House No.:1001 | Narasimhalu  | Adilakshmi  | MCL4836334 | Sex: Female | Age: 47 | Husband's  | Name: | 636
+ | Name : | House No.:1001 | Narasimhalu  | Govinda  | MCL4835187 | Sex: Male | Age: 33 | Father's  | Name: | 637
+ | Name : | House No.:1002 | Peddanna  | Peddanna  | REJ2000529 | Sex: Male | Age: 59 | Father's  | Name: | 638
+ | Name : | House No.:1002 | Peddanna  | Lakshmidevi  | MBQ0969808 | Sex: Female | Age: 51 | Husband's  | Name: | 639
+ | Name : | House No.:1002 | Obalesh  | Pullanna  | MCL4835377 | Sex: Male | Age: 37 | Father's  | Name: | 640
+ | Name : | House No.:1002 | Pullanna  | Venkatalakshmi  | MCL4831863 | Sex: Female | Age: 32 | Husband's  | Name: | 641
+ | Name : | House No.:1003 | Kadirappa  | Narasamma  | REJ2000495 | Sex: Female | Age: 72 | Husband's  | Name: | 642
+ | Name : | House No.:1003 | Bavaiah  | Varalakshmi  | REJ5392386        | Sex: Female | Age: 33 | Husband's  | Name: | 643
+ | Name : | House No.:1004 | Kadirappa  | Narasimhalu  | REJ2000479 | Sex: Male | Age: 59 | Father's  | Name: | 644
+ | Name : | House No.:1004 | Narasimhalu  | Kadiramma  | REJ2000487 | Sex: Female | Age: 54 | Husband's  | Name: | 645
+ | Name : | House No.:1006 | Anjaneyalu  | Varalakshmi  | REJ0162586 | Sex: Female | Age: 39 | Husband's  | Name: | 646
+ | Name : | House No.:1006 | Peddanna  | Manjula  | REJ0163741 | Sex: Female | Age: 33 | Father's  | Name: | 647
+ | Name : | House No.:1006 | Marappa  | M. Satish  | REJ0050252 | Sex: Male | Age: 32 | Father's  | Name: | 648
+ | Name : | House No.:1006 | Marappa  | Manjunatha. M  | REJ0163303 | Sex: Male | Age: 30 | Father's  | Name: | 649
+ | Name : | House No.:1006 | G Thirupal  | G Ramaiah  | REJ0266544 | Sex: Male | Age: 64 | Father's  | Name: | 650
+ | Name : | House No.:1006 | Ramaiah  | Ankamma  | REJ0266759 | Sex: Female | Age: 59 | Husband's  | Name: | 651
+ | Name : | House No.:1006 | Ramaiah  | Shrinivasalu  | MCL4831277 | Sex: Male | Age: 35 | Father's  | Name: | 652
+ | Name : | House No.:1006 | Ramaiah  | Masthan  | MCL4830337 | Sex: Male | Age: 33 | Father's  | Name: | 653
+ | Name : | House No.:1007 | Joseph  | Babu  | MCL4834370 | Sex: Male | Age: 40 | Father's  | Name: | 654
+ | Name : | House No.:1007 | Joseph  | Ramesh  | REJ0266627 | Sex: Male | Age: 38 | Father's  | Name: | 655
+ | Name : | House No.:1007 | Joseph  | Suresh  | MCL3856408 | Sex: Male | Age: 33 | Father's  | Name: | 656
+ | Name : | House No.:1007 | Ramesha  | Indra  | MCL4833281 | Sex: Female | Age: 32 | Husband's  | Name: | 657
+ | Name : | House No.:1008 | Narasappa  | Narasimha  | MCL4833315 | Sex: Male | Age: 50 | Father's  | Name: | 658
+ | Name : | House No.:1008 | Narasimha  | Govindamma  | MCL4833323 | Sex: Female | Age: 42 | Husband's  | Name: | 659
+ | Name : | House No.:1008 | Gangappa  | Peddanna  | REJ0266932 | Sex: Male | Age: 68 | Father's  | Name: | 660
+ | Name : | House No.:1008 | Peddanna  | Kadiramma  | REJ0050732 | Sex: Female | Age: 38 | Father's  | Name:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ | Page 24/29 | Age as on 01-01-2013 | Issued by the Electoral Registration Officer | Electoral Roll 2013 of 154 - Rajarajeshwarinagar (Gen) Assembly Constituency in KarnatakaPart No. 001
+ | Name : | House No.:1008 | Kadirappa  | Marappa  | MCL4833836 | Sex: Male | Age: 54 | Father's  | Name: | 662
+ | Name : | House No.:1008 | Marappa  | Obalamma  | MCL3856903 | Sex: Female | Age: 50 | Husband's  | Name: | 663
+ | Name : | House No.:1008 | Mallanna  | Anjaneyalu C  | REJ0265934 | Sex: Male | Age: 41 | Father's  | Name: | 664
+ | Name : | House No.:1009 | Kadirappa  | Govindappa  | REJ0268219 | Sex: Male | Age: 39 | Father's  | Name: | 665
+ | Name : | House No.:1009 | Govindappa  | Gangarathna  | MCL4831921 | Sex: Female | Age: 35 | Husband's  | Name: | 666
+ | Name : | House No.:1011 | Pyaraiah  | Narayan  | REJ0267708 | Sex: Male | Age: 49 | Father's  | Name: | 667
+ | Name : | House No.:1011 | Narayan  | Narayanamma  | REJ0268144 | Sex: Female | Age: 42 | Husband's  | Name: | 668
+ | Name : | House No.:1011 | Nagappa  | Nagalakshmi  | REJ0164772 | Sex: Male | Age: 67 | Father's  | Name: | 669
+ | Name : | House No.:1012 | Masthanappa  | Balaganganna  | REJ0267443 | Sex: Male | Age: 60 | Father's  | Name: | 670
+ | Name : | House No.:1012 | Balaganganna  | Lakshmamma  | REJ0267435 | Sex: Female | Age: 54 | Husband's  | Name: | 671
+ | Name : | House No.:1012 | Balaganganna  | Narayan  | MBQ7611742 | Sex: Male | Age: 39 | Father's  | Name: | 672
+ | Name : | House No.:1012 | Narayan  | Aadinarayanamma  | MBQ7611759 | Sex: Female | Age: 32 | Husband's  | Name: | 673
+ | Name : | House No.:1012 | Kadirappa  | Gangamma  | MCL3856945 | Sex: Female | Age: 50 | Husband's  | Name: | 674
+ | Name : | House No.:1012 | Kadirappa  | Muniaanjanappa  | MCL4839973 | Sex: Male | Age: 30 | Father's  | Name: | 675
+ | Name : | House No.:1012 | Anthony  | Nagina  | REJ0162719 | Sex: Female | Age: 47 | Husband's  | Name: | 676
+ | Name : | House No.:1012 | Anthony  | Nur Ahmed  | REJ0265959 | Sex: Male | Age: 37 | Father's  | Name: | 677
+ | Name : | House No.:1012 | Noor Ahmed  | Sabiha  | REJ0162727 | Sex: Female | Age: 29 | Husband's  | Name: | 678
+ | Name : | House No.:1016 | Gurappa  | Chandrappa  | REJ0163816 | Sex: Male | Age: 54 | Father's  | Name: | 679
+ | Name : | House No.:1016 | Chandrappa  | Lakshmamma  | REJ0163824 | Sex: Female | Age: 49 | Husband's  | Name: | 680
+ | Name : | House No.:1016 | Chandrappa  | Eshwar  | MCL4836375 | Sex: Male | Age: 32 | Father's  | Name: | 681
+ | Name : | House No.:1017 | Peddapeddanna  | Chinnapeddanna  | MCL4835039 | Sex: Male | Age: 60 | Father's  | Name: | 682
+ | Name : | House No.:s1017 | Peddanna  | Narayanamma  | MCL3856895 | Sex: Female | Age: 52 | Husband's  | Name: | 683
+ | Name : | House No.:1017 | Chinna Peddanna  | Narasimhalu  | MCL4836763 | Sex: Male | Age: 40 | Father's  | Name: | 684
+ | Name : | House No.:1017 | Chinnapeddanna  | Murali P  | MCL4836458 | Sex: Male | Age: 33 | Father's  | Name: | 685
+ | Name : | House No.:1017 | Narasimhalu  | Lakshmidevi  | MCL4833661 | Sex: Female | Age: 32 | Husband's  | Name: | 686
+ | Name : | House No.:1017 | Muruli  | Devi  | MCL4833679 | Sex: Female | Age: 31 | Husband's  | Name: | 687
+ | Name : | House No.:1019 | D.K. Shekhar  | Satish Kumar  | REJ0267724 | Sex: Male | Age: 46 | Father's  | Name: | 688
+ | Name : | House No.:1019 | D.K. Shekhar  | Suresh Kumar  | REJ2000347 | Sex: Male | Age: 43 | Father's  | Name: | 689
+ | Name : | House No.:1019 | Satish Kumar  | Jyothi  | MBQ0969220 | Sex: Female | Age: 39 | Husband's  | Name: | 690
+ | Name : | House No.:1019 | D.K. Shekhar  | Ramesh  | REJ2000354 | Sex: Male | Age: 38 | Father's  | Name:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ | Page 25/29 | Age as on 01-01-2013 | Issued by the Electoral Registration Officer | Electoral Roll 2013 of 154 - Rajarajeshwarinagar (Gen) Assembly Constituency in KarnatakaPart No. 001
+ | Name : | House No.:1019 | Veerappa  | Gangadhar  | REJ5392378        | Sex: Male | Age: 30 | Father's  | Name: | 692
+ | Name : | House No.:1021 | Ganganna  | Ganganna  | MBQ0969915 | Sex: Male | Age: 67 | Father's  | Name: | 693
+ | Name : | House No.:1021 | Ganganna  | Suresh  | MCL4835393 | Sex: Male | Age: 31 | Father's  | Name: | 694
+ | Name : | House No.:1023 | Peddanna  | Babaiah  | REJ2000248 | Sex: Male | Age: 48 | Father's  | Name: | 695
+ | Name : | House No.:1023 | Babaiah  | Peddakka  | REJ0165092 | Sex: Female | Age: 41 | Husband's  | Name: | 696
+ | Name : | House No.:1024 | Peddanna  | Ganganna  | REJ0164335 | Sex: Male | Age: 42 | Father's  | Name: | 697
+ | Name : | House No.:1024 | Ganganna  | Shivarathnamma  | REJ0165183 | Sex: Female | Age: 37 | Husband's  | Name: | 698
+ | Name : | House No.:1025 | Balaiah  | Vasanthakumar  | MCL4835542 | Sex: Male | Age: 56 | Father's  | Name: | 699
+ | Name : | House No.:1025 | Vasanthakumar  | Padma  | MCL4835559 | Sex: Female | Age: 48 | Husband's  | Name: | 700
+ | Name : | House No.:1026 | Kasiyalappa  | Gangamma  | REJ2000206 | Sex: Female | Age: 74 | Husband's  | Name: | 701
+ | Name : | House No.:1027 | Kullayappa  | Narayanaswamy  | REJ0267245 | Sex: Male | Age: 42 | Father's  | Name: | 702
+ | Name : | House No.:1027 | Narayanaswamy  | Rathna  | REJ0267351 | Sex: Female | Age: 37 | Husband's  | Name: | 703
+ | Name : | House No.:1028 | Subbarayudu  | Sriramulu  | MCL4832499 | Sex: Male | Age: 67 | Father's  | Name: | 704
+ | Name : | House No.:1028 | Sriramulu  | Ramamohan  | MCL4831632 | Sex: Male | Age: 32 | Father's  | Name: | 705
+ | Name : | House No.:1028 | Sriramulu  | Ravindra  | MCL4832119 | Sex: Male | Age: 30 | Father's  | Name: | 706
+ | Name : | House No.:1028 | Ram Mohan  | Rathna  | REJ4250023 | Sex: Female | Age: 25 | Husband's  | Name: | 707
+ | Name : | House No.:1029 | Erappa  | Chandramma  | REJ0267229 | Sex: Female | Age: 80 | Husband's  | Name: | 708
+ | Name : | House No.:1029 | Erappa  | Ganganna V.  | REJ0267237 | Sex: Male | Age: 51 | Father's  | Name: | 709
+ | Name : | House No.:1029 | Ganganna  | Gangadri  | REJ0163972 | Sex: Female | Age: 44 | Husband's  | Name: | 710
+ | Name : | House No.:1030 | Narayan  | Devaiah  | MCL4833513 | Sex: Male | Age: 60 | Father's  | Name: | 711
+ | Name : | House No.:1030 | Devaiah  | Emiliyamma  | REJ0164343 | Sex: Female | Age: 52 | Husband's  | Name: | 712
+ | Name : | House No.:1030 | Devaiah  | G Anand Kumar  | MCL4836466 | Sex: Male | Age: 32 | Father's  | Name: | 713
+ | Name : | House No.:1031 | Obalesh  | Paramesh  | REJ2000180 | Sex: Male | Age: 44 | Father's  | Name: | 714
+ | Name : | House No.:1031 | Paramesh  | Nagalakshmamma  | REJ2000198 | Sex: Female | Age: 42 | Husband's  | Name: | 715
+ | Name : | House No.:1031 | Obaiah  | Obalesh  | MCL4841250 | Sex: Male | Age: 37 | Father's  | Name: | 716
+ | Name : | House No.:1031 | Obalesh  | Sunitha  | MCL4831335 | Sex: Female | Age: 32 | Husband's  | Name: | 717
+ | Name : | House No.:1031 | Obanna  | Anjaneyalu  | MCL4834453 | Sex: Male | Age: 38 | Father's  | Name: | 718
+ | Name : | House No.:1031 | Anjaneyalu  | Shridevi  | MCL4833489 | Sex: Female | Age: 33 | Husband's  | Name: | 719
+ | Name : | House No.:1032 | Kadirappa  | N Jaganmohan  | MCL4834552 | Sex: Male | Age: 40 | Father's  | Name: | 720
+ | Name : | House No.:1032 | Jaganmohan  | Obalamma  | MCL4834560 | Sex: Female | Age: 37 | Husband's  | Name:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ | Page 26/29 | Age as on 01-01-2013 | Issued by the Electoral Registration Officer | Electoral Roll 2013 of 154 - Rajarajeshwarinagar (Gen) Assembly Constituency in KarnatakaPart No. 001
+ | Name : | House No.:1033 | Dodda Obalesh  | Obalayya  | REJ0267138 | Sex: Male | Age: 84 | Father's  | Name: | 722
+ | Name : | House No.:1033 | Obalesh  | Lakshmamma  | REJ2000172 | Sex: Female | Age: 72 | Husband's  | Name: | 723
+ | Name : | House No.:1034 | Chinnapeddanna  | Peddanna  | MBQ0969675 | Sex: Male | Age: 34 | Father's  | Name: | 724
+ | Name : | House No.:1034 | Chinnapeddanna  | Nagalakshmi  | MCL4836573 | Sex: Female | Age: 32 | Father's  | Name: | 725
+ | Name : | House No.:1034 | Venkatesh P  | Aruna P V  | REJ0050377 | Sex: Female | Age: 31 | Husband's  | Name: | 726
+ | Name : | House No.:1035 | mohan  | Sarasvathi  | REJ5238480        | Sex: Female | Age: 43 | Husband's  | Name: | 727
+ | Name : | House No.:1035 | late nachimuthu  | Mohan  | REJ5238431        | Sex: Male | Age: 48 | Father's  | Name: | 728
+ | Name : | House No.:1035 | mohan  | Shivani  | REJ5238423        | Sex: Female | Age: 20 | Father's  | Name: | 729
+ | Name : | House No.:1036 | Doddapenchalayya  | Rajagopal  | MCL4831392 | Sex: Male | Age: 42 | Father's  | Name: | 730
+ | Name : | House No.:1036 | Doddapenchalayya  | Aruna  | MCL4834446 | Sex: Female | Age: 38 | Father's  | Name: | 731
+ | Name : | House No.:1036 | Rajagopal  | Lakshmidevi  | MCL3856341 | Sex: Female | Age: 32 | Husband's  | Name: | 732
+ | Name : | House No.:1037 | Penchalaiah  | Ramesha  | MCL4834610 | Sex: Male | Age: 31 | Father's  | Name: | 733
+ | Name : | House No.:1037 | Penchalaiah  | Sunitha  | MCL4836482 | Sex: Female | Age: 30 | Father's  | Name: | 734
+ | Name : | House No.:1037 | Penchalaiah B  | Prasad P  | REJ0050559 | Sex: Male | Age: 27 | Father's  | Name: | 735
+ | Name : | House No.:1039 | Raghavaiah  | Gangamma  | REJ2000040 | Sex: Female | Age: 91 | Husband's  | Name: | 736
+ | Name : | House No.:1039 | Raghavan G.R  | Anjinamma  | MCL4835633 | Sex: Female | Age: 59 | Husband's  | Name: | 737
+ | Name : | House No.:1039 | Raghavan  | Janakamma  | REJ0163550 | Sex: Female | Age: 35 | Husband's  | Name: | 738
+ | Name : | House No.:1039 | Raghavan  | Narasimhalu R.  | MCL4832234 | Sex: Male | Age: 34 | Father's  | Name: | 739
+ | Name : | House No.:1039 | Raghavan  | Lakshmanan  | MCL4836565 | Sex: Male | Age: 30 | Father's  | Name: | 740
+ | Name : | House No.:1041 | Ganganna  | Nagabhushan  | REJ0266999 | Sex: Male | Age: 42 | Father's  | Name: | 741
+ | Name : | House No.:1041 | Nagabhushan  | Lakshmidevi  | REJ0163717 | Sex: Female | Age: 37 | Husband's  | Name: | 742
+ | Name : | House No.:1043 | Narasimhalu  | H. Penchalaiah  | REJ0267047 | Sex: Male | Age: 49 | Father's  | Name: | 743
+ | Name : | House No.:1043 | H. Penchalaiah  | Gangamma  | REJ0163691 | Sex: Female | Age: 47 | Husband's  | Name: | 744
+ | Name : | House No.:1044 | Samuel  | Prakash  | MCL4840393 | Sex: Male | Age: 51 | Father's  | Name: | 745
+ | Name : | House No.:1044 | Prakash  | Jayamma  | REJ0267377 | Sex: Female | Age: 41 | Husband's  | Name: | 746
+ | Name : | House No.:1045 | Samuel  | Prabhakar  | MBQ7611932 | Sex: Male | Age: 45 | Father's  | Name: | 747
+ | Name : | House No.:1046 | Obaiah  | Devaiah  | MBQ7612310 | Sex: Male | Age: 44 | Father's  | Name: | 748
+ | Name : | House No.:1046 | Devaiah  | Shobharani  | MBQ7612245 | Sex: Female | Age: 37 | Husband's  | Name: | 749
+ | Name : | House No.:1047 | Babu  | Lourdamary  | REJ2000065 | Sex: Female | Age: 59 | Husband's  | Name: | 750
+ | Name : | House No.:1047 | Late, Babu  | Anthony Swamy  | REJ0164889 | Sex: Male | Age: 35 | Father's  | Name:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ | Page 27/29 | Age as on 01-01-2013 | Issued by the Electoral Registration Officer | Electoral Roll 2013 of 154 - Rajarajeshwarinagar (Gen) Assembly Constituency in KarnatakaPart No. 001
+ | Name : | House No.:1047 | Babu  | Robert  | MCL4836409 | Sex: Male | Age: 33 | Father's  | Name: | 752
+ | Name : | House No.:1047 | Babu  | Irudaya Raj  | MCL4836698 | Sex: Male | Age: 31 | Father's  | Name: | 753
+ | Name : | House No.:1048 | Chinnaiah  | Polamma  | REJ2000073 | Sex: Female | Age: 76 | Husband's  | Name: | 754
+ | Name : | House No.:1048 | Maladri  | Nagaraj  | MCL3856424 | Sex: Male | Age: 42 | Father's  | Name: | 755
+ | Name : | House No.:1048 | Nagaraj  | Aruna  | MCL3856416 | Sex: Female | Age: 33 | Husband's  | Name: | 756
+ | Name : | House No.:1063 | K. Devaiah  | K. Das  | MCL3856036 | Sex: Male | Age: 54 | Father's  | Name: | 757
+ | Name : | House No.:1063 | K. Das  | K. Anthoniyamma  | MCL3856184 | Sex: Female | Age: 50 | Husband's  | Name: | 758
+ | Name : | House No.:1063 | K. Das  | K. Amar  | MCL3856176 | Sex: Male | Age: 34 | Father's  | Name: | 759
+ | Name : | House No.:1063 | K. Das  | K. Ashok  | MCL3856044 | Sex: Male | Age: 32 | Father's  | Name: | 760
+ | Name : | House No.:1063 | K. Das  | K. Johnson  | MCL3856119 | Sex: Male | Age: 31 | Father's  | Name: | 761
+ | Name : | House No.:1065 | Hovan  | S Selvaraj  | REJ4750147 | Sex: Male | Age: 40 | Father's  | Name: | 762
+ | Name : | House No.:1065 | S Selvaraj  | V Lakshmi  | REJ4750154 | Sex: Female | Age: 34 | Husband's  | Name: | 763
+ | Name : | House No.:1074 | Gopal  | G Nidish  | REJ4750162 | Sex: Male | Age: 22 | Father's  | Name: | 764
+ | Name : | House No.:1079 | Kannaiah  | Chinnaiah  | MCL4834362 | Sex: Male | Age: 67 | Father's  | Name: | 765
+ | Name : | House No.:1079 | Chinnaiah  | Sugunamma  | REJ5392303        | Sex: Female | Age: 63 | Husband's  | Name: | 766
+ | Name : | House No.:1079 | Chinnaiah  | Yesurathnam  | REJ2000263 | Sex: Male | Age: 42 | Father's  | Name: | 767
+ | Name : | House No.:1079 | Chinnaiah  | Prasad  | MCL4831970 | Sex: Male | Age: 37 | Father's  | Name: | 768
+ | Name : | House No.:1079 | Esu  | Mary  | REJ2000271 | Sex: Female | Age: 37 | Husband's  | Name: | 769
+ | Name : | House No.:1101 | Arul Das Late  | Padma  | REJ4690012 | Sex: Female | Age: 54 | Husband's  | Name: | 770
+ | Name : | House No.:1159 | C V Raman  | R Natarajan  | REJ4750196 | Sex: Male | Age: 54 | Father's  | Name: | 771
+ | Name : | House No.:1159 | R Natarajan  | Ramathal  | REJ4750204 | Sex: Female | Age: 43 | Husband's  | Name: | 772
+ | Name : | House No.:1159 | R Natarajan  | N Vadivelu  | REJ4750212 | Sex: Male | Age: 30 | Father's  | Name: | 773
+ | Name : | House No.:1159 | R Natarajan  | Nagarajan  | REJ4750220 | Sex: Male | Age: 27 | Father's  | Name:
+
+
+
+
+
+
+
+
+
+
+
+
+
+ | Page 28/29 | Age as on 01-01-2013 | Issued by the Electoral Registration Officer | Electoral Roll 2013 of 154 - Rajarajeshwarinagar (Gen) Assembly Constituency in KarnatakaPart No. 001

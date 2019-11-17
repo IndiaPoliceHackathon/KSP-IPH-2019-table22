@@ -1,0 +1,772 @@
+,Names,Sex,HouseNumber
+0,Sardar,Sex: Male,House No.:11
+1,Sardar,Sex: Male,House No.:11
+2,Nagamma,Sex: Male,House No.:12
+3,Daniel,Sex: Male,House No.:16
+4,Nagaraju,Sex: Female,House No.:16
+5,Levi,Sex: Female,House No.:16
+6,Krishna,Sex: Female,House No.:17
+7,Joseph,Sex: Male,House No.:18
+8,Babu,Sex: Female,House No.:18
+9,Raju,Sex: Male,House No.:22
+10,Mukesh,Sex: Male,House No.:22
+11,Mukesh,Sex: Male,House No.:22
+12,Kondaiah,Sex: Male,House No.:22/2
+13,Shrinivasalu,Sex: Female,House No.:22/2
+14,Chinnapenchalayya,Sex: Female,House No.:28
+15,Ganganna,Sex: Male,House No.:37
+16,Balaganganna,Sex: Male,House No.:46
+17,Balaganganna,Sex: Male,House No.:46
+18,R K Nathan,Sex: Male,House No.:50
+19,Arokya Nathan,Sex: Male,House No.:50
+20,Peddasubbanna,Sex: Female,House No.:52
+21,Subbarayudu,Sex: Female,House No.:52
+22,Peddasubbanna,Sex: Male,House No.:52
+23,Basavaraju M,Sex: Female,House No.:56
+24,Ganganna,Sex: Male,House No.:57
+25,Kadirappa,Sex: Male,House No.:60
+26,Kadirappa,Sex: Male,House No.:61
+27,Narasimhalu,Sex: Female,House No.:61
+28,Subbanna,Sex: Male,House No.:70
+29,Subbarayadu,Sex: Female,House No.:70
+30,Chinnapenchalayya,Sex: Male,House No.:74
+31,Pullaiah,Sex: Female,House No.:74
+32,Anjaneya,Sex: Male,House No.:74
+33,Hanumanthappa,Sex: Female,House No.:74
+34,Hanumanthappa,Sex: Male,House No.:74
+35,Gangappa,Sex: Male,House No.:76
+36,Ganganna,Sex: Male,House No.:77
+37,Kottappa,Sex: Male,House No.:77
+38,Chinnaiah,Sex: Male,House No.:77
+39,N Anjaneyalu,Sex: Female,House No.:78
+40,Prasad,Sex: Female,House No.:83
+41,Prasad,Sex: Male,House No.:83
+42,Nanjundappa,Sex: Male,House No.:86
+43,Shankarappa,Sex: Female,House No.:86
+44,Ventappa,Sex: Male,House No.:87
+45,Nallappa,Sex: Female,House No.:87
+46,Saravan,Sex: Female,House No.:88
+47,S. P. Muniyappa,Sex: Male,House No.:89
+48,Mukhesh,Sex: Female,House No.:90/221
+49,Thyagaraj,Sex: Male,House No.:90/221
+50,Mukhesh,Sex: Male,House No.:90/221
+51,Mukhesh,Sex: Female,House No.:90/221
+52,Shyam,Sex: Female,House No.:91
+53,Jayapal,Sex: Male,House No.:93-3
+54,Varadappa,Sex: Male,House No.:93/90
+55,Penchalaiah C H.,Sex: Female,House No.:93/214
+56,Narasaiah C H.,Sex: Male,House No.:93/214
+57,Yukub,Sex: Female,House No.:93/214
+58,Devaiah,Sex: Male,House No.:93/220
+59,Saloman,Sex: Female,House No.:93/220
+60,Sauri,Sex: Male,House No.:93/944
+61,Jeviyar,Sex: Female,House No.:93/944
+62,Jeviyar,Sex: Male,House No.:93/944
+63,Stalin,Sex: Female,House No.:93/944
+64,Sampangi,Sex: Male,House No.:95 1
+65,Anthony,Sex: Female,House No.:95 1
+66,Guraiah,Sex: Male,House No.:102
+67,Yakob,Sex: Female,House No.:102
+68,Yakob,Sex: Male,House No.:102
+69,Yakob,Sex: Female,House No.:102
+70,Thirupalayya,Sex: Male,House No.:102
+71,Ponna swamy,Sex: Male,House No.:111
+72,Prabhudas,Sex: Female,House No.:112
+73,Malakondaiah G,Sex: Male,House No.:118/1
+74,Krupa Rao G,Sex: Female,House No.:118/1
+75,Ganganna,Sex: Male,House No.:124-1
+76,Ganganna,Sex: Male,House No.:124-1
+77,Kullayappa,Sex: Female,House No.:124-1
+78,Obalesh,Sex: Female,House No.:124-1
+79,Damodaran,Sex: Male,House No.:132
+80,Kondaiah,Sex: Female,House No.:136
+81,Kondaiah,Sex: Male,House No.:136
+82,Devasahayam,Sex: Female,House No.:136
+83,Rajendran,Sex: Female,House No.:142
+84,R Penchalaiah,Sex: Female,House No.:146
+85,J Ramu,Sex: Male,House No.:147
+86,J Ramu,Sex: Male,House No.:147
+87,J Ramu,Sex: Male,House No.:147
+88,J Ramu,Sex: Male,House No.:147
+89,Ashokan,Sex: Female,House No.:148/3
+90,Doraiswamy,Sex: Male,House No.:152
+91,Krishnappa,Sex: Female,House No.:152
+92,Krishnappa,Sex: Male,House No.:152
+93,Sathish,Sex: Female,House No.:152
+94,Thirupal,Sex: Male,House No.:161
+95,Venkataiah,Sex: Male,House No.:164
+96,Aruna,Sex: Female,House No.:164
+97,Kondaiah,Sex: Female,House No.:168
+98,Kondaiah,Sex: Male,House No.:168
+99,Pathiraja,Sex: Female,House No.:171
+100,Pathiraja,Sex: Male,House No.:171
+101,Pathiraja,Sex: Male,House No.:171
+102,Pathiraja,Sex: Male,House No.:171
+103,Pathiraja,Sex: Male,House No.:171
+104,Pyatric R,Sex: Male,House No.:173
+105,Honnurayya,Sex: Male,House No.:176
+106,H. Kondaiah,Sex: Female,House No.:176
+107,Ramakrishnaiah,Sex: Male,House No.:176
+108,H. Kondaiah,Sex: Male,House No.:176
+109,H. Kondaiah,Sex: Female,House No.:176
+110,S. K. Narayan,Sex: Male,House No.:176
+111,Thirusang,Sex: Male,House No.:177-1
+112,T. Kandan,Sex: Female,House No.:177-1
+113,V Ramaiah,Sex: Male,House No.:179/1
+114,V Krishna,Sex: Female,House No.:179/1
+115,v. krishna,Sex: Male,House No.:179/1
+116,v. krishna,Sex: Male,House No.:179/1
+117,krishna,Sex: Male,House No.:179/1
+118,Narasaiah,Sex: Male,House No.:182
+119,K Penchalaiah,Sex: Female,House No.:182
+120,K Babu,Sex: Male,House No.:186/A
+121,Chinnavolaiah,Sex: Male,House No.:186/1
+122,Obaiah,Sex: Female,House No.:186/1
+123,Obaiah,Sex: Male,House No.:186/1
+124,Mari,Sex: Male,House No.:197
+125,Kumar M.L.,Sex: Female,House No.:197
+126,Kuttappa,Sex: Male,House No.:200/7
+127,Shashidharna,Sex: Female,House No.:200/7
+128,Shashidhar,Sex: Male,House No.:200/7
+129,Shashidhar K,Sex: Female,House No.:200/7
+130,Shashidhar K,Sex: Male,House No.:200/7
+131,Prasad,Sex: Female,House No.:269
+132,K M Baby,Sex: Male,House No.:355
+133,K M Baby,Sex: Male,House No.:355
+134,Subhashchandra S,Subhashchandra,House No.:P440/6
+135,Prashantha,Lata Prashantha,House No.:P440/6
+136,S.Venkatesh,Sex: Male,House No.:673
+137,Kuppan,Sex: Male,House No.:712
+138,Manavalana,Sex: Female,House No.:712
+139,Raju,Sex: Male,House No.:712
+140,Ganesh,Sex: Female,House No.:712
+141,Ummar,Sex: Male,House No.:762
+142,Maulabi,Sex: Female,House No.:762
+143,Hussain Shariff,Sex: Male,House No.:762
+144,Mari,Sex: Male,House No.:763
+145,Chandran,Sex: Male,House No.:763
+146,Muthu,Sex: Male,House No.:764
+147,Sampangi,Sex: Female,House No.:764
+148,Mani,Sex: Female,House No.:766
+149,Mani,Sex: Female,House No.:766
+150,Mani,Sex: Male,House No.:766
+151,Mani,Sex: Female,House No.:766
+152,Mani  S M,Sex: Male,House No.:766
+153,Mani,Sex: Male,House No.:766
+154,Anthony,Sex: Female,House No.:767
+155,Anthony,Sex: Male,House No.:767
+156,Anthony,Sex: Male,House No.:767
+157,Anthony,Sex: Female,House No.:767
+158,Kondaiah,Sex: Male,House No.:769
+159,Paul K,Sex: Female,House No.:769
+160,Rosaiah,Sex: Female,House No.:769
+161,Vijayaraj,Sex: Female,House No.:770
+162,Jai Raj,Sex: Female,House No.:770
+163,Jai Raj,Sex: Female,House No.:770
+164,Jairaj,Sex: Female,House No.:770
+165,Peter,Sex: Male,House No.:771
+166,Muniswamy,Sex: Female,House No.:772
+167,Parameshwaran,Sex: Female,House No.:772
+168,Manikyam,Sex: Male,House No.:772
+169,Parameshwaran,Sex: Female,House No.:772
+170,Parameshwaran,Sex: Male,House No.:772
+171,Muniswamy,Sex: Male,House No.:774
+172,Selvaraj,Sex: Female,House No.:774
+173,Selvaraj,Sex: Male,House No.:774
+174,Kondaiah,Sex: Male,House No.:775
+175,Kondaiah,Sex: Male,House No.:775
+176,Balayamayya,Sex: Female,House No.:775
+177,Kondaiah,Sex: Female,House No.:775
+178,Nagaiah,Sex: Male,House No.:776
+179,Malakondaiah,Sex: Female,House No.:776
+180,Kondaiah,Sex: Female,House No.:776
+181,Vilav Pillai,Sex: Male,House No.:777
+182,Krishna Pillai,Sex: Female,House No.:777
+183,Krishna Pillai,Sex: Female,House No.:777
+184,Krishna Pillai,Sex: Female,House No.:777
+185,P V Kandan,Sex: Male,House No.:780/2
+186,P R Radhakrishna,Sex: Female,House No.:780/2
+187,K Kunju,Sex: Male,House No.:780/2
+188,Kondaiah,Sex: Male,House No.:782
+189,Kondaiah,Sex: Female,House No.:782
+190,Kondaiah M,Sex: Male,House No.:786
+191,Kondaiah,Sex: Female,House No.:786
+192,Kondaiah,Sex: Male,House No.:786
+193,Kondaiah,Sex: Male,House No.:786
+194,G. Venkatesh,Sex: Female,House No.:786
+195,Nagesh G.,Sex: Female,House No.:786
+196,Venkatasubbaiah,Sex: Male,House No.:788
+197,Nagaiah K.,Sex: Female,House No.:788
+198,Arunaiah,Sex: Female,House No.:789
+199,Venkatasubbaiah,Sex: Female,House No.:789
+200,Venkatasubbaiah,Sex: Male,House No.:790
+201,Venkatasubbaiah,Sex: Male,House No.:790
+202,Peddaiah,Sex: Male,House No.:791
+203,Kondaiah,Sex: Female,House No.:791
+204,Kondaiah,Sex: Male,House No.:791
+205,Kondaiah,Sex: Male,House No.:791
+206,Kondaiah,Sex: Female,House No.:791
+207,Chinnaiah,Sex: Female,House No.:792
+208,Chinnaiah,Sex: Male,House No.:792
+209,Srinivasalu,Sex: Female,House No.:792
+210,Adiyamma,Sex: Male,House No.:793
+211,Chinnaiah,Sex: Female,House No.:793
+212,Keshavaiah,Sex: Male,House No.:794
+213,Kumar,Sex: Female,House No.:794
+214,Polaiah,Sex: Male,House No.:795
+215,Keshavaiah,Sex: Male,House No.:796
+216,Jayarao,Sex: Female,House No.:796
+217,Jayarao,Sex: Female,House No.:796
+218,Keshavaiah,Sex: Male,House No.:797
+219,Yesurathnam,Sex: Female,House No.:797
+220,Kondaiah,Sex: Male,House No.:798
+221,Krishna,Sex: Female,House No.:798
+222,srinivas,Sex: Female,House No.:800
+223,D.K.Shekhar,Sex: Female,House No.:801
+224,Armugam,Sex: Male,House No.:802
+225,Sriramulu,Sex: Female,House No.:803
+226,Mathayya,Sex: Female,House No.:803
+227,Shankaraiah,Sex: Male,House No.:803
+228,Prasad,Sex: Female,House No.:803
+229,Vadivelu,Sex: Female,House No.:804
+230,Vadivelu,Sex: Male,House No.:804
+231,Murugan,Sex: Female,House No.:804
+232,Mari,Sex: Male,House No.:805
+233,Ramachandran,Sex: Male,House No.:805
+234,Ramachandran,Sex: Female,House No.:805
+235,Ramachandran,Sex: Female,House No.:805
+236,Govindaswamy,Sex: Male,House No.:806
+237,Srinivasan,Sex: Female,House No.:806
+238,Srinivasan,Sex: Female,House No.:806
+239,Srinivasan,Sex: Male,House No.:806
+240,Srinivasan,Sex: Male,House No.:806
+241,Balan,Sex: Male,House No.:807
+242,Prema Kumar,Sex: Female,House No.:807
+243,Mohan,Sex: Male,House No.:810/2
+244,Obalesh,Sex: Male,House No.:813
+245,Saiman,Sex: Female,House No.:817
+246,Srinivas,Sex: Female,House No.:817
+247,Saiman,Sex: Male,House No.:817
+248,Ramesh,Sex: Female,House No.:817
+249,Srinivas,Sex: Male,House No.:817
+250,Ramaiah,Sex: Male,House No.:817
+251,Paul,Sex: Male,House No.:818
+252,Jhon,Sex: Female,House No.:818
+253,Jhon,Sex: Male,House No.:818
+254,Ruban,Sex: Female,House No.:819
+255,Rubena,Sex: Male,House No.:819
+256,Ruban,Sex: Male,House No.:819
+257,Jacob,Sex: Male,House No.:819
+258,Anthony,Sex: Female,House No.:819
+259,Ruban,Sex: Female,House No.:819
+260,Xavier,Sex: Female,House No.:819
+261,Obalesh,Sex: Female,House No.:819
+262,Obalesh,Sex: Male,House No.:819
+263,Obalesh,Sex: Male,House No.:819
+264,Late Obalesh,Sex: Male,House No.:819
+265,Yakob,Sex: Male,House No.:820
+266,Simana,Sex: Female,House No.:820
+267,Narayan,Sex: Male,House No.:823
+268,Shivakumara,Sex: Female,House No.:823
+269,Lakshminarayana,Sex: Male,House No.:823
+270,Narayan,Sex: Male,House No.:824
+271,Aadinarayan,Sex: Female,House No.:824
+272,Shekhusen,Sex: Male,House No.:827
+273,Sardar,Sex: Female,House No.:827
+274,Sardar,Sex: Male,House No.:827
+275,Shekusena,Sex: Male,House No.:828
+276,Babu,Sex: Female,House No.:828
+277,Babu,Sex: Male,House No.:828
+278,Babu S,Sex: Female,House No.:828
+279,Babu,Sex: Male,House No.:828
+280,Babu,Sex: Male,House No.:828
+281,Jaibunnisa,Sex: Male,House No.:829
+282,Jaibunnisa,Sex: Male,House No.:829
+283,Jaibunnisa,Sex: Male,House No.:829
+284,Afsar Sharif,Sex: Female,House No.:829
+285,Pyarejan,Sex: Male,House No.:829
+286,Jaibunnisa,Sex: Male,House No.:829
+287,Jaibunnisa,Sex: Male,House No.:829
+288,Anwar Sharif,Sex: Female,House No.:829
+289,Inthiyas Pasha,Sex: Female,House No.:829
+290,Jaibunnisa,Sex: Male,House No.:829
+291,javed sharif,Sex: Female,House No.:829
+292,Marakka,Sex: Female,House No.:830
+293,Mohammed Arabbi,Sex: Male,House No.:832
+294,Sagula Amid,Sex: Female,House No.:832
+295,Sagula Amid,Sex: Male,House No.:832
+296,Abdul Rahim,Sex: Female,House No.:832
+297,Obalesh,Sex: Female,House No.:835
+298,Lingamma,Sex: Male,House No.:835
+299,Lingamma,Sex: Female,House No.:835
+300,Chinnaraju,Sex: Male,House No.:835
+301,Ram,Sex: Male,House No.:836
+302,Shankar,Sex: Female,House No.:836
+303,G. Kondaiah,Sex: Female,House No.:837
+304,G. Kondaiah,Sex: Female,House No.:837
+305,Shekhar,Sex: Female,House No.:837
+306,Shekhar,Sex: Female,House No.:837
+307,Shekhar,Sex: Female,House No.:837
+308,Ramu,Sex: Male,House No.:838
+309,Aanandavana,Sex: Female,House No.:838
+310,Krishnan,Sex: Female,House No.:839
+311,Obalesh,Sex: Male,House No.:840
+312,Obalesh,Sex: Female,House No.:840
+313,Ramu,Sex: Female,House No.:842
+314,Ramu,Sex: Male,House No.:842
+315,Mani,Sex: Female,House No.:842
+316,Durai Raj T,Sex: Female,House No.:842
+317,Durai Raj  T,Sex: Male,House No.:842
+318,Thirunavakarasun,Sex: Female,House No.:842
+319,Kodanda Pani,Sex: Male,House No.:843
+320,K George,Sex: Male,House No.:844
+321,Anthony,Sex: Female,House No.:844
+322,Anthony,Sex: Female,House No.:s844
+323,Kondaiah,Sex: Male,House No.:845
+324,Lakkappa,Sex: Female,House No.:845
+325,Lakkappa,Sex: Female,House No.:845
+326,Lakkappa,Sex: Female,House No.:845
+327,Lakkappa,Sex: Female,House No.:845
+328,Sauri Muthu,Sex: Male,House No.:846
+329,Anthony Cruse,Sex: Female,House No.:846
+330,Anthony Cruse,Sex: Female,House No.:846
+331,Kondaiah H.,Sex: Male,House No.:847
+332,Sampath Kumar,Sex: Female,House No.:847
+333,Peddaobalesh,Sex: Male,House No.:849
+334,Obalesh,Sex: Female,House No.:849
+335,Kondaiah H.,Sex: Male,House No.:849
+336,Venkataramu,Sex: Female,House No.:849
+337,Peddaiah,Sex: Male,House No.:850
+338,Ramaiah,Sex: Female,House No.:850
+339,Pyatric,Sex: Male,House No.:851
+340,Yesu,Sex: Female,House No.:851
+341,Mathayya,Sex: Male,House No.:853
+342,Kotaiah,Sex: Female,House No.:853
+343,Kotaiah,Sex: Male,House No.:853
+344,Kotaiah,Sex: Male,House No.:853
+345,Kripanandam,Sex: Female,House No.:853
+346,Peddaiah,Sex: Male,House No.:856
+347,Laban,Sex: Female,House No.:856
+348,G Harohan,Sex: Female,House No.:856
+349,Thirupal,Sex: Female,House No.:857
+350,Thirupal,Sex: Male,House No.:857
+351,Thirupal,Sex: Male,House No.:857
+352,Srinivasalu,Sex: Female,House No.:857
+353,Thirupal,Sex: Male,House No.:857
+354,Venkatesh,Sex: Female,House No.:857
+355,Thirupal,Sex: Female,House No.:857
+356,Thirupal,Sex: Female,House No.:858
+357,Raju P,Sex: Female,House No.:858
+358,Kondaiah,Sex: Male,House No.:858
+359,Thirupal,Sex: Male,House No.:858
+360,Thirupal,Sex: Female,House No.:858
+361,Brahmaiah,Sex: Female,House No.:858
+362,Kariya,Sex: Male,House No.:859
+363,Guruvaiah,Sex: Female,House No.:859
+364,Peddanarasayya,Sex: Male,House No.:860
+365,Pullaiah K.P.,Sex: Female,House No.:860
+366,Pullaiah K P,Sex: Male,House No.:860
+367,Pullaiah K P,Sex: Female,House No.:860
+368,Pullaiah K P,Sex: Male,House No.:860
+369,Yesudas,Sex: Male,House No.:863
+370,Yohan,Sex: Female,House No.:863
+371,Nagaiah,Sex: Male,House No.:866
+372,Chinnaiah,Sex: Female,House No.:866
+373,Ramaiah,Sex: Male,House No.:867
+374,Vijay Raju N.,Sex: Female,House No.:867
+375,Chinnaiah,Sex: Male,House No.:867
+376,Ravanaiah,Sex: Female,House No.:867
+377,Jakkarayya,Sex: Female,House No.:869
+378,Jakkarayya,Sex: Male,House No.:869
+379,Kondaiah,Sex: Male,House No.:870
+380,Irakalayya,Sex: Female,House No.:870
+381,Francis,Sex: Female,House No.:872
+382,Francis,Sex: Male,House No.:872
+383,Ruban,Sex: Female,House No.:872
+384,Pichamma,Sex: Male,House No.:874
+385,Chinnaiah,Sex: Female,House No.:874
+386,Kondaiah,Sex: Male,House No.:875
+387,Yamaiah,Sex: Female,House No.:875
+388,Dyaniyal G,Sex: Male,House No.:875
+389,Chinnaiah,Sex: Male,House No.:875
+390,Yakob,Sex: Female,House No.:875
+391,Chinnavenkataiah,Sex: Male,House No.:876
+392,Moses,Sex: Female,House No.:876
+393,Venkataiah,Sex: Female,House No.:877
+394,Chinnavenkataiah,Sex: Male,House No.:877
+395,Nagamma,Sex: Female,House No.:877
+396,Chinavenkatayya,Sex: Female,House No.:877
+397,Muniya,Sex: Male,House No.:881
+398,Yangaiah,Sex: Female,House No.:881
+399,Narasimha G,Sex: Male,House No.:882
+400,Polaiah,Sex: Female,House No.:882
+401,Ramakka,Sex: Male,House No.:882
+402,Ramakka,Sex: Male,House No.:882
+403,Ramakka,Sex: Male,House No.:882
+404,Ravanaiah,Sex: Female,House No.:882
+405,Ramakka,Sex: Male,House No.:882
+406,Achaiah,Sex: Male,House No.:884
+407,Venkatesh G,Sex: Female,House No.:884
+408,Peddaiah,Sex: Male,House No.:885
+409,Krishna G.,Sex: Female,House No.:885
+410,Musalaiah,Sex: Male,House No.:885
+411,Daniel,Sex: Female,House No.:885
+412,Daniel,Sex: Male,House No.:885
+413,Guruvaiah,Sex: Female,House No.:886
+414,Nagaraju G.,Sex: Male,House No.:886
+415,Devaiah,Sex: Male,House No.:888
+416,Jeshwa,Sex: Female,House No.:888
+417,Muniyappa,Sex: Female,House No.:890
+418,Muniyappa,Sex: Male,House No.:890
+419,Prasad Babu,Sex: Female,House No.:890
+420,Kotaiah,Sex: Male,House No.:891
+421,Sudarshan,Sex: Female,House No.:891
+422,Mani,Sex: Male,House No.:892
+423,Ramaiah,Sex: Male,House No.:894
+424,Narayan,Sex: Female,House No.:894
+425,Ramaiah,Sex: Male,House No.:895
+426,Srinivas,Sex: Female,House No.:895
+427,Raghaiah,Sex: Female,House No.:896
+428,Gangamma,Sex: Male,House No.:896
+429,Venkatesh,Sex: Female,House No.:896
+430,Damodar,Sex: Female,House No.:899
+431,Damodar,Sex: Male,House No.:899
+432,Narasaiah,Sex: Male,House No.:901
+433,Narasimhalu,Sex: Female,House No.:901
+434,Narasimalu,Sex: Female,House No.:901
+435,Narasimhalu,Sex: Male,House No.:901
+436,Narasimhalu,Sex: Male,House No.:901
+437,Narasimha Murthy,Sex: Female,House No.:901
+438,Narasimhalu,Sex: Male,House No.:901
+439,Narasimhalu,Sex: Male,House No.:901
+440,Narasimhaiah,Sex: Male,House No.:902
+441,Narasimha,Sex: Female,House No.:902
+442,Chandrappa,Sex: Female,House No.:905
+443,Srinivas C,Sex: Female,House No.:905
+444,Kondaiah,Sex: Female,House No.:906
+445,Kodamma,Sex: Female,House No.:906
+446,Honnurayya,Sex: Male,House No.:906
+447,H. Ramu,Sex: Male,House No.:906
+448,Gurappa,Sex: Male,House No.:907
+449,Narasimhalu,Sex: Female,House No.:907
+450,Narayanappa,Sex: Male,House No.:908
+451,Narasimha,Sex: Female,House No.:908
+452,Lakshmaiah,Sex: Male,House No.:908
+453,Gangappa,Sex: Female,House No.:908
+454,Thirupal,Sex: Male,House No.:910
+455,Jayaramu,Sex: Female,House No.:910
+456,Lallukumara,Sex: Female,House No.:910
+457,Obalesh,Sex: Male,House No.:915
+458,Obbaiah,Sex: Female,House No.:915
+459,Obalesh,Sex: Female,House No.:915
+460,K. George,Sex: Male,House No.:916
+461,Aashirwadam K.G,Sex: Female,House No.:916
+462,Venkatesh,Sex: Male,House No.:917
+463,Gopal,Sex: Female,House No.:917
+464,Gopal,Sex: Female,House No.:917
+465,Gopal,Sex: Female,House No.:917
+466,Gopal,Sex: Male,House No.:917
+467,George,Sex: Male,House No.:918
+468,Saiman Das,Sex: Female,House No.:918
+469,Saiman Das,Sex: Male,House No.:918
+470,Saiman Das,Sex: Male,House No.:918
+471,Yamaiah G,Sex: Female,House No.:918
+472,Nagabhushan G.,Sex: Female,House No.:920
+473,Rosaiah,Sex: Male,House No.:921
+474,Yesudas,Sex: Female,House No.:921
+475,Yesudas,Sex: Male,House No.:921
+476,Yesudas,Sex: Female,House No.:921
+477,Polaiah,Sex: Female,House No.:922
+478,Polaiah,Sex: Male,House No.:922
+479,Raghaiah,Sex: Male,House No.:923
+480,Venkatesh,Sex: Female,House No.:923
+481,Raghaiah,Sex: Male,House No.:923
+482,Raghaiah,Sex: Male,House No.:924
+483,R. Ramu,Sex: Female,House No.:924
+484,Ramu R.,Sex: Female,House No.:924
+485,ramulingappa,Sex: Male,House No.:925
+486,David,Sex: Female,House No.:927
+487,Michael Sisala,Sex: Male,House No.:927
+488,Michael Sisala,Sex: Male,House No.:927
+489,Michael Sisali,Sex: Female,House No.:927
+490,Michael Sisili,Sex: Male,House No.:927
+491,P.T. Francis,Sex: Male,House No.:928
+492,P.S. Vargees,Sex: Female,House No.:928
+493,Vargees P.F,Sex: Female,House No.:928
+494,obalaiah,Sex: Female,House No.:928
+495,Agastin R.,Sex: Female,House No.:929
+496,Clara,Sex: Male,House No.:929
+497,Ramu,Sex: Male,House No.:929
+498,Androse Raj,Sex: Female,House No.:929
+499,Satish,Sex: Female,House No.:929
+500,S. Jani,Sex: Female,House No.:930
+501,S. Jani,Sex: Male,House No.:930
+502,S. Jani,Sex: Female,House No.:930
+503,S. Jani,Sex: Male,House No.:930
+504,S. Jani,Sex: Male,House No.:930
+505,Syed Anifa,Sex: Female,House No.:930
+506,S. Jani,Sex: Male,House No.:930
+507,Syed Jafar,Sex: Female,House No.:930
+508,Syed Dasthagir,Sex: Female,House No.:930
+509,Alagan,Sex: Male,House No.:932
+510,Chinnaiah,Sex: Female,House No.:932
+511,Chinnaiah,Sex: Male,House No.:932
+512,Chinnaiah,Sex: Female,House No.:932
+513,Thambi,Sex: Male,House No.:935
+514,Manohar,Sex: Female,House No.:935
+515,Kullayappa,Sex: Female,House No.:935
+516,Arogyaswamy,Sex: Male,House No.:935
+517,M.Thambi,Sex: Female,House No.:935
+518,M. Thambi,Sex: Female,House No.:935
+519,Achaiah,Sex: Female,House No.:936
+520,Kullayappa,Sex: Male,House No.:936
+521,Nallappa,Sex: Male,House No.:937
+522,Kullayappa,Sex: Female,House No.:937
+523,Anjanappa,Sex: Male,House No.:937
+524,Achaiah,Sex: Male,House No.:937
+525,Gangadhar,Sex: Female,House No.:937
+526,Venkatesh,Sex: Male,House No.:937
+527,Venkatesh,Sex: Female,House No.:937
+528,Gangappa,Sex: Male,House No.:937
+529,Achaiah,Sex: Female,House No.:937
+530,Ramaiah,Sex: Female,House No.:938
+531,Nagamma,Sex: Female,House No.:938
+532,Gangulu,Sex: Female,House No.:938
+533,Devaiah,Sex: Female,House No.:938
+534,Jagan,Sex: Female,House No.:938
+535,Devaiah,Sex: Male,House No.:938
+536,Ramaiah,Sex: Male,House No.:941
+537,Ravanaiah,Sex: Female,House No.:941
+538,Gangappa,Sex: Male,House No.:944
+539,Ganganna,Sex: Female,House No.:944
+540,Ganganna,Sex: Male,House No.:944
+541,Ganganna,Sex: Male,House No.:944
+542,Ganganna,Sex: Male,House No.:944
+543,Ganganna,Sex: Male,House No.:944
+544,Ganganna,Sex: Female,House No.:944
+545,Muniswamy,Sex: Male,House No.:945
+546,Jayapal,Sex: Female,House No.:945
+547,Aarmugadasa,Sex: Male,House No.:945
+548,Jayapal,Sex: Male,House No.:945
+549,Suresh,Sex: Female,House No.:945
+550,Ramesh,Sex: Female,House No.:945
+551,Dorai,Sex: Male,House No.:946
+552,Thirumalaiah,Sex: Male,House No.:946
+553,Jivayya,Sex: Female,House No.:946
+554,Jivaiah,Sex: Female,House No.:946
+555,Kumar Babu,Sex: Female,House No.:948
+556,Venkatappa,Sex: Male,House No.:948
+557,Raghavan,Sex: Female,House No.:949
+558,Neelamma,Sex: Female,House No.:949
+559,Vandanam,Sex: Male,House No.:951
+560,Saundar,Sex: Female,House No.:951
+561,Kopayya,Sex: Male,House No.:956
+562,Sudhakar,Sex: Female,House No.:956
+563,Subbaiah,Sex: Female,House No.:959
+564,Venkataiah,Sex: Male,House No.:964
+565,Prasad K,Sex: Female,House No.:964
+566,B Venkatesh,Sex: Female,House No.:964
+567,Siddaiah,Sex: Male,House No.:964
+568,Chinnaiah,Sex: Female,House No.:964
+569,Late Lakshman,Sex: Female,House No.:964
+570,Chinnaiah,Sex: Female,House No.:965
+571,Chinnaiah,Sex: Male,House No.:965
+572,Obalesh,Sex: Female,House No.:965
+573,Obalesh,Sex: Female,House No.:965
+574,Chinnaiah,Sex: Male,House No.:966
+575,Obaiah,Sex: Male,House No.:966
+576,Obaiah,Sex: Female,House No.:966
+577,Obaiah,Sex: Male,House No.:966
+578,Kriparava,Sex: Male,House No.:967
+579,Nagaraj,Sex: Female,House No.:968
+580,Kriparava,Sex: Female,House No.:968
+581,Kriparava,Sex: Male,House No.:968
+582,Kriparava,Sex: Female,House No.:968
+583,Chinnanarasappa,Sex: Male,House No.:973
+584,Narasimhalu,Sex: Female,House No.:973
+585,Narasimhalu,Sex: Male,House No.:973
+586,Narasimhalu,Sex: Male,House No.:973
+587,Murthy,Sex: Female,House No.:973
+588,Narasimhalu,Sex: Male,House No.:973
+589,Narasimhalu,Sex: Male,House No.:973
+590,Marappa,Sex: Male,House No.:975
+591,Pakirappa,Sex: Female,House No.:975
+592,Pakirappa,Sex: Female,House No.:975
+593,Kondaiah,Sex: Female,House No.:977
+594,Kondaiah,Sex: Male,House No.:977
+595,Gangappa,Sex: Male,House No.:978
+596,Gangadar,Sex: Female,House No.:978
+597,Narasimhalu,Sex: Male,House No.:979
+598,Obalesh,Sex: Female,House No.:979
+599,Sirappa,Sex: Male,House No.:987
+600,Chandra,Sex: Female,House No.:987
+601,Peddagangappa,Sex: Male,House No.:987
+602,Gangappa,Sex: Female,House No.:987
+603,Gangappa,Sex: Male,House No.:987
+604,Chinna Obalesh,Sex: Male,House No.:989
+605,Ramanjaneyalu,Sex: Female,House No.:989
+606,Doddanna,Sex: Male,House No.:993
+607,Obalesh,Sex: Female,House No.:993
+608,Obalesh,Sex: Male,House No.:993
+609,Gangadhar,Sex: Female,House No.:994
+610,Obalesh,Sex: Female,House No.:994
+611,Krishnappa,Sex: Female,House No.:994
+612,Naganna,Sex: Female,House No.:995
+613,Naganna,Sex: Male,House No.:995
+614,Narasimhan,Sex: Female,House No.:996
+615,Narasimhan,Sex: Male,House No.:996
+616,Narasimhan,Sex: Male,House No.:996
+617,Hanumanthappa,Sex: Male,House No.:996
+618,H. Suresh,Sex: Female,House No.:996
+619,Narasappa,Sex: Male,House No.:997
+620,K. Narasimhalu,Sex: Female,House No.:997
+621,K. Narasimhalu,Sex: Male,House No.:997
+622,Krishna K. N.,Sex: Female,House No.:997
+623,K. Narasimhalu,Sex: Female,House No.:997
+624,Veeraiah,Sex: Female,House No.:999
+625,Veeraiah,Sex: Male,House No.:999
+626,S. V. Nagabhushan,Sex: Female,House No.:999
+627,K. Narasimhalu,MBQ7612062,House No.:999
+628,K. Narasimhalu,Sex: Female,House No.:999
+629,Kadirappa,Sex: Female,House No.:1000
+630,Narasimhalu,Sex: Female,House No.:1000
+631,Peddanna,Sex: Male,House No.:1001
+632,Narasimhalu,Sex: Female,House No.:1001
+633,Narasimhalu,Sex: Male,House No.:1001
+634,Peddanna,Sex: Male,House No.:1002
+635,Peddanna,Sex: Female,House No.:1002
+636,Obalesh,Sex: Male,House No.:1002
+637,Pullanna,Sex: Female,House No.:1002
+638,Kadirappa,Sex: Female,House No.:1003
+639,Bavaiah,Sex: Female,House No.:1003
+640,Kadirappa,Sex: Male,House No.:1004
+641,Narasimhalu,Sex: Female,House No.:1004
+642,Anjaneyalu,Sex: Female,House No.:1006
+643,Peddanna,Sex: Female,House No.:1006
+644,Marappa,Sex: Male,House No.:1006
+645,Marappa,Sex: Male,House No.:1006
+646,G Thirupal,Sex: Male,House No.:1006
+647,Ramaiah,Sex: Female,House No.:1006
+648,Ramaiah,Sex: Male,House No.:1006
+649,Ramaiah,Sex: Male,House No.:1006
+650,Joseph,Sex: Male,House No.:1007
+651,Joseph,Sex: Male,House No.:1007
+652,Joseph,Sex: Male,House No.:1007
+653,Ramesha,Sex: Female,House No.:1007
+654,Narasappa,Sex: Male,House No.:1008
+655,Narasimha,Sex: Female,House No.:1008
+656,Gangappa,Sex: Male,House No.:1008
+657,Peddanna,Sex: Female,House No.:1008
+658,Kadirappa,Sex: Male,House No.:1008
+659,Marappa,Sex: Female,House No.:1008
+660,Mallanna,Sex: Male,House No.:1008
+661,Kadirappa,Sex: Male,House No.:1009
+662,Govindappa,Sex: Female,House No.:1009
+663,Pyaraiah,Sex: Male,House No.:1011
+664,Narayan,Sex: Female,House No.:1011
+665,Nagappa,Sex: Male,House No.:1011
+666,Masthanappa,Sex: Male,House No.:1012
+667,Balaganganna,Sex: Female,House No.:1012
+668,Balaganganna,Sex: Male,House No.:1012
+669,Narayan,Sex: Female,House No.:1012
+670,Kadirappa,Sex: Female,House No.:1012
+671,Kadirappa,Sex: Male,House No.:1012
+672,Anthony,Sex: Female,House No.:1012
+673,Anthony,Sex: Male,House No.:1012
+674,Noor Ahmed,Sex: Female,House No.:1012
+675,Gurappa,Sex: Male,House No.:1016
+676,Chandrappa,Sex: Female,House No.:1016
+677,Chandrappa,Sex: Male,House No.:1016
+678,Peddapeddanna,Sex: Male,House No.:1017
+679,Peddanna,Sex: Female,House No.:s1017
+680,Chinna Peddanna,Sex: Male,House No.:1017
+681,Chinnapeddanna,Sex: Male,House No.:1017
+682,Narasimhalu,Sex: Female,House No.:1017
+683,Muruli,Sex: Female,House No.:1017
+684,D.K. Shekhar,Sex: Male,House No.:1019
+685,D.K. Shekhar,Sex: Male,House No.:1019
+686,Satish Kumar,Sex: Female,House No.:1019
+687,D.K. Shekhar,Sex: Male,House No.:1019
+688,Veerappa,Sex: Male,House No.:1019
+689,Ganganna,Sex: Male,House No.:1021
+690,Ganganna,Sex: Male,House No.:1021
+691,Peddanna,Sex: Male,House No.:1023
+692,Babaiah,Sex: Female,House No.:1023
+693,Peddanna,Sex: Male,House No.:1024
+694,Ganganna,Sex: Female,House No.:1024
+695,Balaiah,Sex: Male,House No.:1025
+696,Vasanthakumar,Sex: Female,House No.:1025
+697,Kasiyalappa,Sex: Female,House No.:1026
+698,Kullayappa,Sex: Male,House No.:1027
+699,Narayanaswamy,Sex: Female,House No.:1027
+700,Subbarayudu,Sex: Male,House No.:1028
+701,Sriramulu,Sex: Male,House No.:1028
+702,Sriramulu,Sex: Male,House No.:1028
+703,Ram Mohan,Sex: Female,House No.:1028
+704,Erappa,Sex: Female,House No.:1029
+705,Erappa,Sex: Male,House No.:1029
+706,Ganganna,Sex: Female,House No.:1029
+707,Narayan,Sex: Male,House No.:1030
+708,Devaiah,Sex: Female,House No.:1030
+709,Devaiah,Sex: Male,House No.:1030
+710,Obalesh,Sex: Male,House No.:1031
+711,Paramesh,Sex: Female,House No.:1031
+712,Obaiah,Sex: Male,House No.:1031
+713,Obalesh,Sex: Female,House No.:1031
+714,Obanna,Sex: Male,House No.:1031
+715,Anjaneyalu,Sex: Female,House No.:1031
+716,Kadirappa,Sex: Male,House No.:1032
+717,Jaganmohan,Sex: Female,House No.:1032
+718,Dodda Obalesh,Sex: Male,House No.:1033
+719,Obalesh,Sex: Female,House No.:1033
+720,Chinnapeddanna,Sex: Male,House No.:1034
+721,Chinnapeddanna,Sex: Female,House No.:1034
+722,Venkatesh P,Sex: Female,House No.:1034
+723,mohan,Sex: Female,House No.:1035
+724,late nachimuthu,Sex: Male,House No.:1035
+725,mohan,Sex: Female,House No.:1035
+726,Doddapenchalayya,Sex: Male,House No.:1036
+727,Doddapenchalayya,Sex: Female,House No.:1036
+728,Rajagopal,Sex: Female,House No.:1036
+729,Penchalaiah,Sex: Male,House No.:1037
+730,Penchalaiah,Sex: Female,House No.:1037
+731,Penchalaiah B,Sex: Male,House No.:1037
+732,Raghavaiah,Sex: Female,House No.:1039
+733,Raghavan G.R,Sex: Female,House No.:1039
+734,Raghavan,Sex: Female,House No.:1039
+735,Raghavan,Sex: Male,House No.:1039
+736,Raghavan,Sex: Male,House No.:1039
+737,Ganganna,Sex: Male,House No.:1041
+738,Nagabhushan,Sex: Female,House No.:1041
+739,Narasimhalu,Sex: Male,House No.:1043
+740,H. Penchalaiah,Sex: Female,House No.:1043
+741,Samuel,Sex: Male,House No.:1044
+742,Prakash,Sex: Female,House No.:1044
+743,Samuel,Sex: Male,House No.:1045
+744,Obaiah,Sex: Male,House No.:1046
+745,Devaiah,Sex: Female,House No.:1046
+746,Babu,Sex: Female,House No.:1047
+747,"Late, Babu",Sex: Male,House No.:1047
+748,Babu,Sex: Male,House No.:1047
+749,Babu,Sex: Male,House No.:1047
+750,Chinnaiah,Sex: Female,House No.:1048
+751,Maladri,Sex: Male,House No.:1048
+752,Nagaraj,Sex: Female,House No.:1048
+753,K. Devaiah,Sex: Male,House No.:1063
+754,K. Das,Sex: Female,House No.:1063
+755,K. Das,Sex: Male,House No.:1063
+756,K. Das,Sex: Male,House No.:1063
+757,K. Das,Sex: Male,House No.:1063
+758,Hovan,Sex: Male,House No.:1065
+759,S Selvaraj,Sex: Female,House No.:1065
+760,Gopal,Sex: Male,House No.:1074
+761,Kannaiah,Sex: Male,House No.:1079
+762,Chinnaiah,Sex: Female,House No.:1079
+763,Chinnaiah,Sex: Male,House No.:1079
+764,Chinnaiah,Sex: Male,House No.:1079
+765,Esu,Sex: Female,House No.:1079
+766,Arul Das Late,Sex: Female,House No.:1101
+767,C V Raman,Sex: Male,House No.:1159
+768,R Natarajan,Sex: Female,House No.:1159
+769,R Natarajan,Sex: Male,House No.:1159
+770,R Natarajan,Sex: Male,House No.:1159

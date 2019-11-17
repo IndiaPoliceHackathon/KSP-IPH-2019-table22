@@ -1,0 +1,17 @@
+body {
+  background-color: orange;
+  padding:20px;   
+  font-family: 'Raleway', Helvetica, sans-serif;
+  min-width: 320px;
+}
+
+h1{
+text-align:center;
+background-color:rgb(232,202,132);
+border: 1px solid black;
+height:50px;
+padding:10px;
+border-radius:4px;
+}
+
+
