@@ -1,0 +1,30 @@
+[!] ---- Fetching informations for 919986721016 ---- [!]
+[*] Running local scan...
+[+] International format: +91 99867 21016
+[+] Local format: 9986721016
+[+] Country found: India (+91)
+[+] City/Area: India
+[+] Carrier: Vodafone
+[+] Timezone: Asia/Calcutta
+[i] The number is valid and possible.
+[*] Running Numverify.com scan...
+[+] Number: (+91) 09986721016
+[+] Country: India (Republic of) (IN)
+[+] Location: Karnataka
+[+] Carrier: Vodafone Idea Ltd (formerly Vodafone India Ltd)
+[+] Line type: mobile
+(!) This is most likely a mobile number, but it can still be a VoIP number.
+[*] Running OVH scan...
+[*] Running OSINT footprint reconnaissance...
+[i] Generating scan URL on 411.com...
+[+] Scan URL: https://www.411.com/phone/91-99867-21016
+[i] ---- Web pages footprints ----
+[i] Searching for footprints on web pages... (limit=10)
+[+] Result found: https://whocallingindia.com/pcode-9199867-a-21.html
+[+] Result found: https://serchcaller.com/919986720000
+[+] Result found: https://www.trackortrace.com/tracking_results_from_919986720000-919986729999.htm
+[+] Result found: https://fonnambar.info/gb/in-code/998672
+[i] Searching for documents... (limit=10)
+[i] ---- Reputation footprints ----
+[i] Searching for reputation report on whosenumber.info...
+(!) You are temporary blacklisted from Google search. Complete the captcha then press ENTER.
