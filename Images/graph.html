@@ -1,0 +1,106 @@
+
+<!-- saved from url=(0099)file:///C:/Users/anind/Desktop/police%20hack/twitterscraper-master/twitterscraper-master/graph.html -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<link rel="stylesheet" href="./graph_files/vis.css" type="text/css">
+<script type="text/javascript" src="./graph_files/vis-network.min.js.download"> </script>
+
+<!-- <link rel="stylesheet" href="../node_modules/vis/dist/vis.min.css" type="text/css" />
+<script type="text/javascript" src="../node_modules/vis/dist/vis.js"> </script>-->
+
+<style type="text/css">
+
+        #mynetwork {
+            width: 500px;
+            height: 500px;
+            background-color: #ffffff;
+            border: 1px solid lightgray;
+            position: relative;
+            float: left;
+        }
+
+        
+
+        
+
+        
+</style>
+
+</head>
+
+<body>
+<div id="mynetwork"><div class="vis-network" tabindex="900" style="position: relative; overflow: hidden; touch-action: pan-y; user-select: none; -webkit-user-drag: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); width: 100%; height: 100%;"><canvas style="position: relative; touch-action: none; user-select: none; -webkit-user-drag: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); width: 100%; height: 100%;" width="625" height="625"></canvas></div></div>
+
+
+<script type="text/javascript">
+
+    // initialize global variables.
+    var edges;
+    var nodes;
+    var network; 
+    var container;
+    var options, data;
+
+    
+    // This method is responsible for drawing the graph, returns the drawn network
+    function drawGraph() {
+        var container = document.getElementById('mynetwork');
+        
+        
+
+        // parsing and collecting nodes and edges from the python
+        nodes = new vis.DataSet([{"id": "donaldtrump", "label": "donaldtrump", "shape": "dot", "title": "donaldtrump"}, {"id": "\u0027foxnews\u0027", "label": "\u0027foxnews\u0027", "shape": "dot", "title": "\u0027foxnews\u0027"}, {"id": "\u0027foxandfriends\u0027", "label": "\u0027foxandfriends\u0027", "shape": "dot", "title": "\u0027foxandfriends\u0027"}, {"id": "\u0027loudobbs\u0027", "label": "\u0027loudobbs\u0027", "shape": "dot", "title": "\u0027loudobbs\u0027"}, {"id": "\u0027cnn\u0027", "label": "\u0027cnn\u0027", "shape": "dot", "title": "\u0027cnn\u0027"}, {"id": "\u0027eddierispone\u0027", "label": "\u0027eddierispone\u0027", "shape": "dot", "title": "\u0027eddierispone\u0027"}, {"id": "\u0027seanhannity\u0027", "label": "\u0027seanhannity\u0027", "shape": "dot", "title": "\u0027seanhannity\u0027"}, {"id": "\u0027mattbevin\u0027", "label": "\u0027mattbevin\u0027", "shape": "dot", "title": "\u0027mattbevin\u0027"}, {"id": "\u0027oann\u0027", "label": "\u0027oann\u0027", "shape": "dot", "title": "\u0027oann\u0027"}, {"id": "\u0027marklevinshow\u0027", "label": "\u0027marklevinshow\u0027", "shape": "dot", "title": "\u0027marklevinshow\u0027"}, {"id": "\u0027varneyco\u0027", "label": "\u0027varneyco\u0027", "shape": "dot", "title": "\u0027varneyco\u0027"}]);
+        edges = new vis.DataSet([{"from": "donaldtrump", "to": "\u0027foxnews\u0027"}, {"from": "donaldtrump", "to": "\u0027foxandfriends\u0027"}, {"from": "donaldtrump", "to": "\u0027loudobbs\u0027"}, {"from": "donaldtrump", "to": "\u0027cnn\u0027"}, {"from": "donaldtrump", "to": "\u0027eddierispone\u0027"}, {"from": "donaldtrump", "to": "\u0027seanhannity\u0027"}, {"from": "donaldtrump", "to": "\u0027mattbevin\u0027"}, {"from": "donaldtrump", "to": "\u0027oann\u0027"}, {"from": "donaldtrump", "to": "\u0027marklevinshow\u0027"}, {"from": "donaldtrump", "to": "\u0027varneyco\u0027"}]);
+
+        // adding nodes and edges to the graph
+        data = {nodes: nodes, edges: edges};
+
+        var options = {
+    "configure": {
+        "enabled": false
+    },
+    "edges": {
+        "color": {
+            "inherit": true
+        },
+        "smooth": {
+            "enabled": false,
+            "type": "continuous"
+        }
+    },
+    "interaction": {
+        "dragNodes": true,
+        "hideEdgesOnDrag": false,
+        "hideNodesOnDrag": false
+    },
+    "physics": {
+        "enabled": true,
+        "stabilization": {
+            "enabled": true,
+            "fit": true,
+            "iterations": 1000,
+            "onlyDynamicEdges": false,
+            "updateInterval": 50
+        }
+    }
+};
+        
+        
+
+        
+
+        network = new vis.Network(container, data, options);
+
+        
+
+
+        
+
+        return network;
+
+    }
+
+    drawGraph();
+
+</script>
+
+</body></html>
